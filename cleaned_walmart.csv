@@ -1,0 +1,1488 @@
+,User_ID,Product_ID,Gender,Age,Occupation,City_Category,Product_Category,Purchase
+4,0002,285442,M,55+,Dentist,Chicago,Automotive,7969
+5,0003,193542,M,26-35,Lawyer,New York,Electronics,15227
+6,0004,184942,M,46-50,Financial Analyst,Los Angeles,Electronics,19215
+9,0005,274942,M,26-35,Veterinarian,New York,Automotive,7871
+14,0006,231342,F,51-55,Chef,New York,Sports & Outdoors,5378
+18,0007,036842,M,36-45,Teacher,Los Angeles,Electronics,11788
+19,0008,249542,M,26-35,Photographer,Chicago,Electronics,19614
+29,0010,085942,F,36-45,Teacher,Los Angeles,Clothing,16352
+47,0011,192642,F,26-35,Teacher,Chicago,Automotive,6171
+50,0012,304242,M,26-35,Photographer,Chicago,Electronics,15246
+52,0013,129542,M,46-50,Teacher,Chicago,Automotive,5839
+56,0015,334242,M,26-35,Financial Analyst,New York,Electronics,19653
+70,0018,366542,F,18-25,Nurse,Los Angeles,Sports & Outdoors,1780
+98,0022,351142,M,18-25,Lawyer,New York,Electronics,12099
+112,0023,278942,M,36-45,Software Developer,Los Angeles,Electronics,15766
+124,0024,346642,F,26-35,Financial Analyst,New York,Automotive,2230
+127,0025,206442,M,18-25,Electrician,Chicago,Electronics,15361
+130,0026,043242,M,26-35,Financial Analyst,Los Angeles,Sports & Outdoors,1848
+142,0027,281742,M,26-35,Journalist,Chicago,Sports & Outdoors,8696
+147,0028,084442,F,26-35,Teacher,Chicago,Garden & Outdoors,758
+152,0029,233542,M,36-45,Financial Analyst,Chicago,Electronics,19068
+156,0030,051442,F,36-45,Financial Analyst,Chicago,Automotive,9735
+159,0031,117442,M,55+,Financial Analyst,Chicago,Sports & Outdoors,8596
+163,0032,332342,F,26-35,Software Developer,Chicago,Sports & Outdoors,7134
+189,0035,102542,M,46-50,Teacher,Chicago,Automotive,6109
+219,0037,085242,F,26-35,Chef,Chicago,Automotive,8034
+220,0039,279442,M,18-25,Electrician,Los Angeles,Furniture,12464
+222,0041,235242,F,18-25,Electrician,Chicago,Automotive,5915
+235,0044,112142,M,46-50,Pilot,Los Angeles,Electronics,19072
+248,0045,066442,F,46-50,Dentist,New York,Sports & Outdoors,6950
+258,0046,123142,M,18-25,Social Worker,Chicago,Office Supplies,7614
+262,0047,031042,M,18-25,Electrician,Chicago,Automotive,8043
+264,0048,055642,M,26-35,Electrician,Los Angeles,Home & Kitchen,1447
+297,0050,317942,F,26-35,Graphic Designer,New York,Automotive,5878
+304,0053,117542,M,26-35,Software Developer,Los Angeles,Food & Beverages,3794
+333,0054,299842,M,51-55,Teacher,Chicago,Automotive,6198
+339,0057,171542,M,18-25,Social Worker,Chicago,Clothing,3581
+342,0058,110742,M,26-35,Graphic Designer,Los Angeles,Electronics,15824
+355,0059,114742,F,51-55,Teacher,Los Angeles,Automotive,5899
+370,0060,150542,M,51-55,Teacher,Chicago,Sports & Outdoors,2048
+373,0062,013742,F,36-45,Nurse,New York,Sports & Outdoors,5234
+388,0063,234742,M,18-25,Electrician,Chicago,Automotive,5881
+392,0064,110942,M,18-25,Teacher,New York,Electronics,19462
+393,0065,289942,M,36-45,Photographer,Chicago,Groceries,13253
+399,0066,265242,M,26-35,Research Scientist,Chicago,Sports & Outdoors,8652
+400,0067,118142,F,51-55,Data Scientist,Chicago,Automotive,8088
+408,0070,249142,M,18-25,Electrician,New York,Sports & Outdoors,7076
+414,0072,156442,F,46-50,Software Developer,Los Angeles,Automotive,7968
+433,0076,126142,M,36-45,Financial Analyst,Los Angeles,Automotive,7909
+438,0077,255542,M,18-25,Electrician,Chicago,Sports & Outdoors,6909
+449,0079,195842,F,46-50,Software Developer,New York,Groceries,7962
+451,0080,157542,M,55+,Teacher,Chicago,Automotive,9788
+454,0081,344242,F,26-35,Software Developer,New York,Automotive,10058
+455,0082,015542,M,26-35,Pilot,Chicago,Electronics,8162
+457,0083,105142,F,26-35,Graphic Designer,Chicago,Electronics,15584
+462,0084,034742,M,18-25,Electrician,Chicago,Sports & Outdoors,5315
+466,0085,027142,M,18-25,Electrician,Chicago,Automotive,5986
+469,0087,173342,M,26-35,Civil Engineer,Chicago,Electronics,4121
+472,0088,010842,F,46-50,Teacher,Chicago,Automotive,10022
+475,0089,223942,F,55+,Chef,Chicago,Sports & Outdoors,8804
+477,0090,027542,M,55+,Pharmacist,Chicago,Automotive,6122
+510,0093,199442,M,26-35,Pilot,Los Angeles,Sports & Outdoors,7038
+526,0094,117042,M,26-35,Pilot,Chicago,Electronics,15482
+527,0095,141942,M,46-50,Software Developer,Chicago,Sports & Outdoors,3746
+529,0096,117942,F,26-35,Dentist,Chicago,Sports & Outdoors,7193
+531,0097,209842,F,36-45,Nurse,Chicago,Sports & Outdoors,7040
+544,0100,057942,M,36-45,Pilot,Chicago,Electronics,11612
+547,0101,278042,F,18-25,Nurse,New York,Electronics,19464
+558,0103,071242,M,46-50,Financial Analyst,Los Angeles,Electronics,15827
+562,0105,269542,M,46-50,Photographer,Chicago,Office Supplies,6073
+566,0106,205442,F,36-45,Journalist,Chicago,Sports & Outdoors,7035
+569,0107,323742,M,46-50,Research Scientist,Chicago,Automotive,9753
+575,0108,013942,M,26-35,Photographer,Chicago,Sports & Outdoors,2021
+576,0109,087042,M,46-50,Lawyer,Chicago,Jewelry & Accessories,19131
+579,0110,035842,M,26-35,Graphic Designer,Los Angeles,Sports & Outdoors,6923
+587,0116,275842,M,26-35,Pilot,Chicago,Clothing,16171
+589,0117,351342,M,26-35,Pilot,New York,Electronics,8337
+605,0118,194542,M,36-45,Pilot,Chicago,Automotive,8081
+623,0121,102042,M,36-45,Financial Analyst,Chicago,Sports & Outdoors,3627
+625,0122,142142,F,18-25,Electrician,Chicago,Electronics,4530
+626,0123,248142,M,36-45,Chef,Los Angeles,Sports & Outdoors,3639
+645,0124,291042,M,55+,Financial Analyst,Chicago,Automotive,7904
+646,0125,244642,M,46-50,Civil Engineer,Los Angeles,Office Supplies,4497
+654,0127,145042,F,46-50,Nurse,Chicago,Electronics,19681
+659,0128,245642,M,55+,Marketing Manager,New York,Sports & Outdoors,8629
+660,0129,037542,M,26-35,Journalist,Chicago,Electronics,15383
+665,0130,350442,M,36-45,Pilot,Los Angeles,Clothing,3688
+676,0131,170642,M,18-25,Electrician,Chicago,Sports & Outdoors,6886
+686,0132,100842,M,26-35,Pilot,Chicago,Sports & Outdoors,8709
+691,0133,012542,F,26-35,Software Developer,Chicago,Sports & Outdoors,6954
+696,0134,218642,M,26-35,Software Developer,Chicago,Sports & Outdoors,3622
+700,0135,295942,M,18-25,Electrician,Chicago,Clothing,16241
+703,0136,099042,M,18-25,Graphic Designer,Los Angeles,Sports & Outdoors,8850
+717,0137,250842,F,46-50,Marketing Manager,Chicago,Automotive,8126
+726,0138,113242,M,18-25,Veterinarian,Chicago,Electronics,19391
+729,0139,329542,F,26-35,Veterinarian,Chicago,Electronics,7773
+743,0140,062842,F,36-45,Teacher,Los Angeles,Electronics,3843
+745,0142,192042,M,26-35,Financial Analyst,New York,Sports & Outdoors,5267
+753,0145,250342,M,18-25,Electrician,Chicago,Furniture,16772
+757,0146,248942,F,36-45,Veterinarian,Los Angeles,Electronics,15659
+808,0149,109242,M,26-35,Teacher,Los Angeles,Health & Beauty,15969
+864,0152,159942,M,18-25,Electrician,New York,Sports & Outdoors,8744
+868,0154,214242,M,51-55,Veterinarian,New York,Electronics,7821
+872,0155,205642,M,36-45,Photographer,Chicago,Sports & Outdoors,6967
+879,0156,304842,F,46-50,Financial Analyst,Chicago,Automotive,9872
+882,0157,140042,M,36-45,Dentist,New York,Electronics,15544
+893,0158,347242,M,55+,Financial Analyst,Chicago,Automotive,9703
+895,0159,277642,F,46-50,Software Developer,New York,Clothing,12828
+896,0160,198042,M,36-45,Financial Analyst,Chicago,Office Supplies,4681
+898,0161,086042,M,46-50,Dentist,Chicago,Automotive,8108
+910,0162,004842,F,18-25,Electrician,Chicago,Groceries,5711
+915,0163,014742,M,18-25,Electrician,New York,Office Supplies,1534
+966,0169,288042,M,26-35,Financial Analyst,Los Angeles,Automotive,7999
+995,0170,111142,M,26-35,Journalist,Chicago,Electronics,19696
+997,0171,100442,F,51-55,Pilot,Los Angeles,Clothing,16018
+998,0172,346542,M,26-35,Nurse,Chicago,Jewelry & Accessories,14070
+999,0173,084642,M,26-35,Software Developer,Los Angeles,Garden & Outdoors,759
+1033,0175,302742,F,26-35,Graphic Designer,Los Angeles,Automotive,9805
+1046,0176,282842,F,18-25,Nurse,Chicago,Sports & Outdoors,5202
+1055,0179,253042,M,26-35,Software Developer,New York,Automotive,6147
+1057,0180,317842,M,46-50,Photographer,Chicago,Automotive,6086
+1078,0183,100142,F,46-50,Teacher,Los Angeles,Jewelry & Accessories,14334
+1085,0184,068042,F,26-35,Software Developer,Chicago,Groceries,7954
+1116,0188,255842,M,55+,Dentist,Chicago,Furniture,12379
+40221,0189,128142,M,18-25,Software Developer,Los Angeles,Electronics,15609
+1120,0190,238442,M,26-35,Pilot,New York,Health & Beauty,12235
+1124,0191,158542,M,18-25,Electrician,Chicago,Sports & Outdoors,8861
+1125,0192,208742,M,18-25,Teacher,Los Angeles,Electronics,12001
+1141,0193,092242,F,46-50,Lawyer,Chicago,Sports & Outdoors,5311
+1187,0196,110542,F,36-45,Chef,Chicago,Automotive,8072
+1192,0197,099342,M,18-25,Civil Engineer,New York,Sports & Outdoors,7041
+1267,0203,297042,F,18-25,Electrician,Los Angeles,Automotive,4104
+1270,0204,370242,M,26-35,Financial Analyst,Los Angeles,Sports & Outdoors,8781
+1286,0205,112542,M,36-45,Photographer,New York,Electronics,15735
+1295,0206,285842,M,26-35,Pilot,Chicago,Sports & Outdoors,1961
+1297,0208,010742,M,36-45,Pilot,Chicago,Electronics,15372
+1303,0209,196742,M,36-45,Teacher,Los Angeles,Automotive,7847
+1307,0211,332242,M,46-50,Pilot,Chicago,Electronics,19461
+1310,0212,025542,M,26-35,Dentist,Chicago,Automotive,3937
+1323,0216,152742,M,46-50,Pharmacist,Los Angeles,Sports & Outdoors,8779
+1361,0218,295842,M,36-45,Civil Engineer,Chicago,Sports & Outdoors,1796
+1369,0221,326742,F,26-35,Software Developer,Los Angeles,Office Supplies,5957
+1370,0222,114342,M,26-35,Teacher,New York,Electronics,15204
+118193,0226,320742,M,36-45,Teacher,Chicago,Electronics,7694
+1405,0228,256642,M,26-35,Lawyer,New York,Sports & Outdoors,3687
+1406,0229,367042,M,18-25,Mechanical Engineer,Chicago,Automotive,8114
+1426,0231,270942,M,26-35,Nurse,New York,Electronics,11516
+1430,0232,328142,M,26-35,Veterinarian,New York,Automotive,4253
+1436,0234,288542,M,36-45,Financial Analyst,Chicago,Automotive,7933
+1459,0237,102342,M,26-35,Marketing Manager,Chicago,Automotive,2105
+1481,0239,112442,M,18-25,Social Worker,New York,Health & Beauty,20072
+1486,0240,106742,M,51-55,Pilot,New York,Groceries,10819
+1490,0242,167942,F,18-25,Electrician,New York,Electronics,15896
+1552,0246,271142,F,18-25,Electrician,Chicago,Sports & Outdoors,8731
+1553,0249,138542,F,18-25,Civil Engineer,Chicago,Sports & Outdoors,8671
+1557,0250,115842,M,36-45,Dentist,Chicago,Furniture,16500
+1561,0252,338542,M,26-35,Photographer,Chicago,Electronics,15782
+1565,0253,043542,F,26-35,Journalist,Chicago,Automotive,5920
+1567,0255,102842,M,36-45,Software Developer,Chicago,Automotive,6019
+1583,0256,255942,M,46-50,Dentist,Chicago,Electronics,11964
+1585,0257,161542,M,18-25,Research Scientist,New York,Clothing,10084
+1592,0259,002542,M,26-35,Teacher,Los Angeles,Automotive,7923
+1611,0261,111842,M,26-35,Veterinarian,New York,Automotive,9980
+1627,0262,025442,F,26-35,Teacher,Chicago,Electronics,18952
+1635,0263,221442,F,26-35,Financial Analyst,Chicago,Electronics,15581
+1640,0264,115942,M,36-45,Software Developer,Los Angeles,Automotive,5896
+1652,0265,135742,F,36-45,Financial Analyst,New York,Health & Beauty,16614
+1654,0266,110842,M,36-45,Journalist,Chicago,Electronics,19017
+1665,0268,044442,F,18-25,Photographer,Chicago,Electronics,15515
+1679,0269,047942,M,26-35,Graphic Designer,New York,Sports & Outdoors,6977
+1681,0270,264242,M,51-55,Civil Engineer,Los Angeles,Automotive,5841
+1699,0272,229942,M,18-25,Software Developer,New York,Sports & Outdoors,5405
+1720,0273,100942,M,18-25,Electrician,Los Angeles,Sports & Outdoors,8793
+1724,0274,105042,M,18-25,Electrician,New York,Sports & Outdoors,3549
+1727,0275,327342,M,26-35,Software Developer,Chicago,Furniture,16133
+1729,0276,014942,M,46-50,Dentist,Chicago,Automotive,6109
+1730,0278,125142,M,46-50,Research Scientist,Chicago,Office Supplies,7531
+1737,0279,359242,M,26-35,Civil Engineer,Chicago,Electronics,19052
+1741,0281,220342,F,36-45,Software Developer,New York,Sports & Outdoors,5201
+1742,0282,147942,M,26-35,Pilot,Chicago,Electronics,15888
+40840,0283,252042,M,26-35,Software Developer,Los Angeles,Sports & Outdoors,8721
+1744,0284,195942,M,26-35,Photographer,Los Angeles,Groceries,10950
+1770,0285,319342,F,36-45,Software Developer,New York,Sports & Outdoors,8661
+1775,0287,093242,M,51-55,Pharmacist,Los Angeles,Automotive,7881
+1787,0291,115642,M,36-45,Photographer,Los Angeles,Automotive,7886
+1792,0293,155842,M,55+,Teacher,Chicago,Automotive,9800
+40875,0294,053042,F,46-50,Chef,Chicago,Sports & Outdoors,6887
+1807,0295,280442,M,18-25,Software Developer,Chicago,Office Supplies,7631
+1822,0298,328042,F,18-25,Electrician,Chicago,Automotive,7797
+1823,0299,102642,M,26-35,Photographer,Chicago,Home & Kitchen,2744
+1828,0300,135342,M,26-35,Financial Analyst,Los Angeles,Sports & Outdoors,1871
+1855,0302,243942,M,18-25,Electrician,Los Angeles,Electronics,7751
+1892,0303,005742,M,26-35,Financial Analyst,Chicago,Automotive,9764
+1902,0304,273342,M,26-35,Software Developer,Los Angeles,Jewelry & Accessories,23139
+1903,0305,181542,F,18-25,Software Developer,Los Angeles,Office Supplies,4616
+1906,0306,028842,M,18-25,Software Developer,Chicago,Health & Beauty,20656
+1923,0308,366442,M,26-35,Graphic Designer,New York,Automotive,7923
+1947,0310,033442,F,18-25,Electrician,Chicago,Home & Kitchen,788
+1959,0313,203742,F,18-25,Electrician,New York,Garden & Outdoors,757
+1977,0315,326842,F,55+,Teacher,New York,Sports & Outdoors,1810
+1981,0318,219842,F,55+,Pharmacist,New York,Sports & Outdoors,7179
+2008,0321,003242,M,18-25,Electrician,Los Angeles,Automotive,8070
+2029,0326,051942,M,51-55,Journalist,Los Angeles,Sports & Outdoors,3661
+2057,0327,307942,M,36-45,Research Scientist,Chicago,Health & Beauty,16523
+2073,0329,130242,M,36-45,Financial Analyst,New York,Automotive,5889
+2096,0330,080342,M,55+,Financial Analyst,Chicago,Electronics,19527
+2098,0331,214842,M,26-35,Financial Analyst,Los Angeles,Baby Products,14934
+2139,0334,025942,F,55+,Graphic Designer,New York,Automotive,7932
+2158,0338,125942,M,36-45,Financial Analyst,New York,Electronics,15837
+2175,0339,126042,M,51-55,Financial Analyst,Chicago,Automotive,9728
+2181,0340,190742,F,26-35,Nurse,Chicago,Groceries,5536
+2188,0342,010542,M,18-25,Photographer,Chicago,Clothing,9952
+2197,0343,184242,F,36-45,Nurse,Los Angeles,Books & Media,18362
+2204,0344,073842,M,36-45,Civil Engineer,Chicago,Electronics,15738
+2210,0346,042742,F,26-35,Software Developer,Los Angeles,Sports & Outdoors,8685
+2233,0348,337142,M,51-55,Financial Analyst,Los Angeles,Pet Supplies,347
+2258,0351,240142,M,18-25,Electrician,New York,Sports & Outdoors,2026
+2301,0354,084842,M,36-45,Teacher,New York,Automotive,9734
+2323,0357,002042,M,18-25,Software Developer,New York,Electronics,4488
+2325,0359,183142,M,26-35,Pilot,Los Angeles,Musical Instruments,13228
+2326,0360,294242,M,36-45,Pilot,Chicago,Home & Kitchen,2836
+2331,0363,274142,M,18-25,Mechanical Engineer,Los Angeles,Electronics,15217
+2333,0365,220442,F,18-25,Electrician,New York,Sports & Outdoors,7047
+2344,0368,333042,M,26-35,Software Developer,Chicago,Sports & Outdoors,6965
+2350,0369,299142,M,36-45,Teacher,Los Angeles,Sports & Outdoors,8734
+2357,0370,247542,M,18-25,Pilot,Chicago,Automotive,5957
+2365,0372,148442,F,18-25,Electrician,Chicago,Clothing,9826
+2375,0376,058042,M,36-45,Teacher,Chicago,Automotive,9939
+41424,0378,103342,F,18-25,Software Developer,New York,Automotive,6174
+2392,0379,190042,F,36-45,Teacher,Chicago,Groceries,13191
+2401,0381,346242,M,36-45,Pilot,Chicago,Electronics,15686
+2405,0384,111242,M,26-35,Journalist,Los Angeles,Electronics,19470
+2406,0385,046742,M,26-35,Marketing Manager,Chicago,Electronics,15262
+2412,0386,103242,M,26-35,Software Developer,New York,Automotive,9884
+2421,0388,116842,F,26-35,Software Developer,Los Angeles,Clothing,13043
+2437,0391,340042,M,46-50,Journalist,Chicago,Sports & Outdoors,8584
+2454,0393,297742,M,36-45,Pilot,Chicago,Automotive,8101
+2456,0394,148842,M,18-25,Software Developer,Chicago,Health & Beauty,12656
+2458,0396,282442,M,26-35,Teacher,Chicago,Sports & Outdoors,5328
+2476,0399,216342,F,36-45,Marketing Manager,Los Angeles,Groceries,11078
+2480,0400,196542,F,18-25,Nurse,Chicago,Sports & Outdoors,7040
+2510,0405,050342,M,55+,Teacher,Chicago,Sports & Outdoors,7148
+2546,0410,161942,F,26-35,Teacher,Los Angeles,Sports & Outdoors,7075
+2567,0412,300242,M,36-45,Lawyer,New York,Automotive,6170
+2594,0415,278642,F,36-45,Software Developer,New York,Sports & Outdoors,7030
+2609,0419,350942,M,18-25,Nurse,Chicago,Groceries,13338
+2611,0420,121342,M,36-45,Teacher,New York,Electronics,15184
+2613,0421,186642,F,46-50,Nurse,New York,Clothing,13035
+2616,0423,250242,M,18-25,Electrician,New York,Sports & Outdoors,5308
+2619,0424,246142,M,26-35,Pilot,New York,Electronics,15802
+2671,0425,223142,M,26-35,Photographer,Los Angeles,Sports & Outdoors,8882
+2681,0426,071442,M,18-25,Electrician,New York,Musical Instruments,20755
+2692,0429,330242,M,18-25,Software Developer,Chicago,Sports & Outdoors,3461
+2708,0430,120342,F,18-25,Mechanical Engineer,Chicago,Sports & Outdoors,7129
+2709,0431,059442,M,18-25,Mechanical Engineer,Los Angeles,Health & Beauty,16263
+2710,0433,144242,M,51-55,Marketing Manager,Chicago,Sports & Outdoors,6858
+2711,0434,288442,F,46-50,Nurse,Chicago,Sports & Outdoors,3427
+2713,0435,305142,M,26-35,Financial Analyst,New York,Electronics,11914
+2725,0437,146142,M,36-45,Pilot,Chicago,Electronics,11468
+2726,0438,026642,M,18-25,Journalist,New York,Automotive,5860
+2749,0439,359742,M,36-45,Civil Engineer,Los Angeles,Electronics,11968
+2754,0442,319042,M,26-35,Teacher,New York,Sports & Outdoors,8780
+2766,0444,316742,M,55+,Software Developer,New York,Home & Kitchen,2128
+2772,0445,059642,M,46-50,Photographer,New York,Electronics,12058
+2782,0446,178142,F,51-55,Software Developer,Chicago,Automotive,9958
+2792,0450,084342,M,46-50,Teacher,Chicago,Garden & Outdoors,760
+2793,0451,009942,M,55+,Pharmacist,Chicago,Sports & Outdoors,8810
+2800,0452,140742,M,51-55,Pilot,New York,Electronics,19707
+2803,0453,229742,M,18-25,Electrician,Los Angeles,Electronics,15443
+2834,0457,022742,M,18-25,Electrician,Los Angeles,Automotive,5993
+2850,0458,295742,M,51-55,Dentist,Chicago,Automotive,5931
+2852,0460,336942,M,46-50,Research Scientist,Chicago,Sports & Outdoors,6947
+2875,0462,113142,M,18-25,Dentist,Chicago,Electronics,19659
+2884,0464,256442,F,18-25,Electrician,New York,Sports & Outdoors,3558
+2886,0465,086442,M,18-25,Social Worker,Chicago,Automotive,8029
+2887,0466,089542,M,26-35,Data Scientist,New York,Sports & Outdoors,8634
+2908,0471,323942,M,36-45,Financial Analyst,New York,Automotive,5823
+2910,0473,335542,F,18-25,Electrician,New York,Automotive,8099
+2913,0474,029142,M,26-35,Pilot,Los Angeles,Automotive,5893
+2953,0477,304042,M,36-45,Civil Engineer,New York,Sports & Outdoors,5459
+2960,0480,169742,F,18-25,Electrician,Chicago,Electronics,11749
+2964,0481,129642,M,46-50,Financial Analyst,Chicago,Sports & Outdoors,1917
+3007,0483,067142,M,18-25,Photographer,New York,Sports & Outdoors,6866
+3020,0493,213242,M,51-55,Financial Analyst,Chicago,Sports & Outdoors,6911
+3047,0501,209742,M,26-35,Graphic Designer,Chicago,Electronics,7641
+3053,0504,237642,M,26-35,Graphic Designer,Chicago,Sports & Outdoors,7148
+3054,0505,019342,M,36-45,Pilot,Chicago,Electronics,19436
+3106,0510,251642,M,18-25,Photographer,Chicago,Electronics,19340
+3110,0511,296042,F,46-50,Electrician,Chicago,Automotive,8010
+42207,0512,031442,M,36-45,Software Developer,Chicago,Sports & Outdoors,7094
+3111,0513,361842,M,26-35,Software Developer,Chicago,Musical Instruments,16846
+3119,0514,021742,M,26-35,Graphic Designer,New York,Sports & Outdoors,8576
+3135,0517,186542,F,26-35,Civil Engineer,New York,Clothing,9875
+3144,0518,294542,F,36-45,Photographer,Chicago,Automotive,9783
+3157,0520,226942,F,36-45,Veterinarian,New York,Office Supplies,3101
+3165,0522,282042,M,26-35,Photographer,Chicago,Sports & Outdoors,8810
+3166,0523,117642,M,51-55,Financial Analyst,New York,Jewelry & Accessories,23159
+3216,0525,189042,M,36-45,Marketing Manager,Chicago,Automotive,9813
+3217,0526,346142,M,46-50,Pilot,Chicago,Electronics,12110
+3229,0530,184342,M,26-35,Graphic Designer,New York,Automotive,9705
+3268,0532,119142,M,26-35,Financial Analyst,Chicago,Groceries,7971
+3297,0535,178042,M,36-45,Marketing Manager,Los Angeles,Automotive,9735
+3305,0539,285642,M,26-35,Graphic Designer,Chicago,Clothing,16041
+3314,0541,069042,F,18-25,Electrician,Chicago,Groceries,11037
+3321,0543,304142,M,26-35,Data Scientist,Los Angeles,Sports & Outdoors,8774
+3351,0544,094442,M,36-45,Photographer,Los Angeles,Food & Beverages,3079
+3354,0545,331042,M,36-45,Pilot,Chicago,Sports & Outdoors,6987
+3366,0547,145442,M,36-45,Photographer,Los Angeles,Automotive,9997
+3374,0549,368642,M,26-35,Marketing Manager,New York,Office Supplies,7417
+3460,0552,212042,M,51-55,Research Scientist,Chicago,Garden & Outdoors,763
+3468,0553,159442,M,26-35,Graphic Designer,Los Angeles,Sports & Outdoors,1800
+3471,0555,148642,M,18-25,Electrician,Los Angeles,Health & Beauty,20623
+3473,0556,120542,F,26-35,Chef,Los Angeles,Automotive,5880
+3478,0557,127642,M,55+,Teacher,New York,Electronics,15860
+81438,0561,094642,F,18-25,Civil Engineer,Chicago,Home & Kitchen,2099
+3485,0563,178842,M,26-35,Electrician,New York,Clothing,9925
+3495,0564,184442,M,46-50,Teacher,Chicago,Electronics,11572
+3521,0567,127842,M,36-45,Veterinarian,Chicago,Electronics,19487
+3529,0569,302442,F,18-25,Electrician,Chicago,Sports & Outdoors,7064
+3535,0570,355142,M,26-35,Electrician,New York,Electronics,15362
+3551,0574,000142,M,26-35,Social Worker,Chicago,Groceries,10954
+3560,0576,010942,F,46-50,Lawyer,Chicago,Electronics,8023
+3561,0577,192842,M,36-45,Software Developer,New York,Sports & Outdoors,8833
+3572,0581,238542,M,51-55,Civil Engineer,Chicago,Sports & Outdoors,5427
+3596,0587,034842,M,26-35,Veterinarian,Los Angeles,Sports & Outdoors,3746
+3649,0592,149442,M,18-25,Software Developer,New York,Electronics,11421
+3650,0593,029942,F,51-55,Teacher,Chicago,Automotive,4083
+3655,0594,176742,F,55+,Pharmacist,Los Angeles,Automotive,9847
+3661,0595,037142,M,26-35,Financial Analyst,New York,Electronics,11576
+3668,0596,057642,F,26-35,Teacher,Chicago,Electronics,15530
+3672,0598,312742,M,36-45,Financial Analyst,Chicago,Musical Instruments,9122
+3691,0603,307642,F,26-35,Marketing Manager,Chicago,Sports & Outdoors,6869
+3732,0611,303142,M,36-45,Software Developer,Chicago,Sports & Outdoors,5156
+3743,0615,052842,M,51-55,Pilot,Chicago,Jewelry & Accessories,18706
+3749,0618,254242,M,26-35,Software Developer,Los Angeles,Sports & Outdoors,5172
+3753,0620,156742,M,18-25,Software Developer,New York,Sports & Outdoors,3665
+3776,0624,216042,M,26-35,Teacher,Los Angeles,Sports & Outdoors,8753
+3796,0626,096142,M,18-25,Electrician,Los Angeles,Groceries,8097
+3846,0636,233942,M,18-25,Veterinarian,Chicago,Electronics,19583
+3848,0637,014842,M,36-45,Photographer,Los Angeles,Electronics,7621
+3873,0639,178242,M,46-50,Pilot,Los Angeles,Automotive,10008
+43020,0642,243842,F,36-45,Teacher,Chicago,Automotive,2313
+3907,0645,286342,M,36-45,Veterinarian,New York,Toys & Games,20599
+3924,0647,240242,M,36-45,Photographer,Los Angeles,Electronics,15481
+3932,0648,014642,F,26-35,Photographer,Los Angeles,Automotive,6158
+3946,0649,117742,M,26-35,Electrician,Los Angeles,Automotive,8044
+3961,0652,309342,M,18-25,Veterinarian,Chicago,Furniture,4557
+3964,0654,177842,M,51-55,Financial Analyst,Chicago,Automotive,5929
+3975,0655,335942,F,26-35,Graphic Designer,Los Angeles,Automotive,6170
+3989,0656,331542,F,46-50,Dentist,Chicago,Sports & Outdoors,6878
+3997,0658,033942,F,26-35,Software Developer,Los Angeles,Sports & Outdoors,5243
+3998,0659,114142,F,26-35,Software Developer,Chicago,Automotive,5931
+4000,0661,116742,M,46-50,Teacher,Chicago,Office Supplies,7464
+4009,0663,258842,F,26-35,Financial Analyst,New York,Sports & Outdoors,6922
+4018,0666,252142,F,18-25,Software Developer,Chicago,Automotive,9821
+4026,0667,180342,M,26-35,Research Scientist,Chicago,Office Supplies,6034
+4029,0668,042942,F,26-35,Nurse,Chicago,Electronics,15340
+4031,0669,191442,M,26-35,Pilot,Los Angeles,Electronics,15530
+4056,0670,089942,M,26-35,Photographer,Los Angeles,Automotive,5930
+4064,0673,256942,M,26-35,Veterinarian,New York,Automotive,9967
+4106,0677,121642,M,51-55,Graphic Designer,Los Angeles,Sports & Outdoors,8902
+4157,0685,327842,M,26-35,Electrician,New York,Automotive,8021
+4161,0686,017442,M,18-25,Electrician,New York,Automotive,4214
+4175,0688,116542,M,55+,Pharmacist,Chicago,Sports & Outdoors,5375
+4181,0690,157142,M,26-35,Photographer,Chicago,Office Supplies,4483
+4188,0691,219242,M,36-45,Journalist,Los Angeles,Home & Kitchen,2870
+4211,0694,242742,M,18-25,Electrician,New York,Electronics,8083
+4212,0695,338442,F,18-25,Teacher,New York,Electronics,11917
+4232,0700,136442,M,51-55,Pilot,Chicago,Baby Products,18516
+4237,0702,360042,M,36-45,Financial Analyst,Los Angeles,Automotive,3977
+4254,0704,298442,F,36-45,Architect,Chicago,Furniture,16481
+4262,0706,341342,M,36-45,Veterinarian,Los Angeles,Electronics,15229
+4308,0711,200342,M,26-35,Research Scientist,New York,Furniture,20641
+4329,0713,277442,M,36-45,Financial Analyst,Los Angeles,Electronics,11957
+4339,0714,003642,M,18-25,Electrician,Los Angeles,Automotive,7804
+4386,0721,182742,F,36-45,Chef,Los Angeles,Electronics,15237
+4410,0722,070942,M,26-35,Photographer,Los Angeles,Groceries,10825
+4438,0728,136542,M,26-35,Marketing Manager,Chicago,Sports & Outdoors,5225
+4456,0730,254342,M,26-35,Software Developer,Chicago,Sports & Outdoors,5416
+4504,0734,271442,M,26-35,Financial Analyst,Chicago,Food & Beverages,3826
+4534,0739,178942,M,36-45,Photographer,Chicago,Sports & Outdoors,5228
+4540,0740,115742,M,26-35,Civil Engineer,Chicago,Health & Beauty,20549
+4544,0741,128942,M,26-35,Data Scientist,Chicago,Electronics,15807
+4564,0746,081142,F,18-25,Social Worker,Los Angeles,Health & Beauty,12452
+4583,0748,260042,M,26-35,Software Developer,Chicago,Sports & Outdoors,8817
+4596,0750,024842,F,36-45,Chef,Los Angeles,Automotive,5918
+4598,0751,129742,F,26-35,Pilot,Chicago,Sports & Outdoors,3734
+4657,0754,102942,M,36-45,Financial Analyst,Chicago,Electronics,11511
+4694,0760,113042,M,55+,Lawyer,New York,Office Supplies,7404
+121386,0763,177042,M,18-25,Mechanical Engineer,Chicago,Automotive,6175
+4700,0764,185842,M,18-25,Veterinarian,Chicago,Home & Kitchen,2766
+4721,0767,058342,M,26-35,Photographer,Chicago,Groceries,11021
+4728,0769,288642,M,46-50,Pilot,Chicago,Furniture,16270
+4756,0772,135842,M,18-25,Photographer,Chicago,Sports & Outdoors,7053
+4762,0773,293242,M,26-35,Marketing Manager,Los Angeles,Automotive,7945
+4798,0778,198742,M,18-25,Pilot,Chicago,Electronics,15891
+4802,0779,267542,M,26-35,Software Developer,Los Angeles,Electronics,11997
+4819,0783,035542,M,26-35,Electrician,New York,Groceries,11039
+43958,0784,276942,M,18-25,Software Developer,Chicago,Automotive,7804
+4830,0787,251942,M,18-25,Electrician,Chicago,Electronics,11662
+4866,0793,060242,F,36-45,Civil Engineer,Chicago,Groceries,5380
+4875,0794,362342,M,51-55,Veterinarian,Chicago,Sports & Outdoors,5244
+4901,0797,347342,F,51-55,Financial Analyst,Chicago,Automotive,7951
+4915,0799,324942,F,26-35,Data Scientist,Chicago,Sports & Outdoors,8643
+4918,0801,088842,F,26-35,Veterinarian,Chicago,Automotive,7768
+4929,0802,161442,M,26-35,Dentist,Los Angeles,Sports & Outdoors,6959
+4950,0805,205942,M,36-45,Photographer,Los Angeles,Sports & Outdoors,3431
+4953,0806,084542,M,36-45,Software Developer,Chicago,Sports & Outdoors,8599
+4955,0807,057542,M,18-25,Electrician,Chicago,Groceries,13217
+4956,0808,346742,M,26-35,Financial Analyst,Los Angeles,Office Supplies,3005
+4970,0810,325742,M,26-35,Photographer,Chicago,Clothing,9932
+4978,0812,279342,M,26-35,Marketing Manager,Chicago,Sports & Outdoors,7161
+4995,0817,177442,M,18-25,Electrician,Los Angeles,Electronics,19126
+5020,0821,366942,M,18-25,Graphic Designer,Chicago,Automotive,3880
+5036,0824,241542,M,36-45,Photographer,New York,Electronics,11980
+5052,0825,252842,M,55+,Teacher,Chicago,Automotive,2099
+5054,0826,106642,F,36-45,Teacher,Chicago,Toys & Games,16801
+5055,0827,058442,M,46-50,Graphic Designer,Chicago,Sports & Outdoors,3625
+44213,0831,274542,F,46-50,Software Developer,Chicago,Health & Beauty,16448
+5073,0832,198942,M,18-25,Graphic Designer,Chicago,Sports & Outdoors,1987
+5083,0835,246642,M,55+,Software Developer,Chicago,Musical Instruments,4730
+5085,0836,095842,M,26-35,Journalist,New York,Groceries,8062
+5128,0840,109742,F,26-35,Nurse,Chicago,Automotive,9872
+5135,0842,270242,F,18-25,Software Developer,Los Angeles,Automotive,10067
+5136,0843,119442,M,26-35,Financial Analyst,Los Angeles,Sports & Outdoors,3528
+5142,0844,054342,M,26-35,Software Developer,Los Angeles,Toys & Games,12245
+5148,0845,073642,F,18-25,Software Developer,New York,Automotive,7814
+5149,0846,367942,M,26-35,Data Scientist,Chicago,Sports & Outdoors,8816
+5157,0847,034342,F,26-35,Financial Analyst,Los Angeles,Sports & Outdoors,2055
+5188,0852,313342,M,26-35,Data Scientist,Chicago,Sports & Outdoors,8663
+5256,0856,119342,F,46-50,Marketing Manager,Los Angeles,Jewelry & Accessories,18873
+5257,0857,272842,M,36-45,Pilot,Chicago,Sports & Outdoors,8822
+5267,0859,258942,M,26-35,Photographer,Los Angeles,Sports & Outdoors,5425
+5289,0864,265342,F,26-35,Software Developer,Los Angeles,Toys & Games,16846
+5295,0868,367542,M,51-55,Pilot,Chicago,Sports & Outdoors,5425
+5299,0869,365642,M,18-25,Veterinarian,New York,Sports & Outdoors,7014
+5356,0873,050742,M,55+,Marketing Manager,Chicago,Sports & Outdoors,5374
+5363,0877,267342,M,26-35,Software Developer,Los Angeles,Electronics,11920
+5539,0890,015842,M,18-25,Electrician,Chicago,Electronics,15259
+5549,0891,216242,M,26-35,Teacher,Chicago,Groceries,7944
+5568,0895,022942,M,51-55,Teacher,Chicago,Sports & Outdoors,5480
+5571,0896,350242,M,18-25,Lawyer,Chicago,Sports & Outdoors,8581
+5598,0903,149542,M,55+,Pharmacist,Chicago,Electronics,19414
+5602,0904,105342,M,36-45,Veterinarian,Los Angeles,Electronics,15345
+5627,0909,183342,M,46-50,Financial Analyst,Chicago,Sports & Outdoors,5191
+5634,0911,187442,M,51-55,Software Developer,Los Angeles,Clothing,9933
+5657,0912,223542,F,36-45,Graphic Designer,Los Angeles,Electronics,8167
+5661,0913,115142,M,26-35,Software Developer,Chicago,Electronics,19113
+5662,0914,113642,F,36-45,Chef,Chicago,Automotive,9875
+5663,0915,260442,M,26-35,Financial Analyst,Chicago,Electronics,8186
+5669,0918,050242,F,46-50,Teacher,Chicago,Automotive,6003
+5673,0919,122442,F,36-45,Teacher,Chicago,Electronics,15799
+5714,0923,158742,M,26-35,Financial Analyst,Chicago,Sports & Outdoors,8823
+5716,0924,049542,M,51-55,Pilot,Chicago,Automotive,7902
+5762,0930,365242,M,26-35,Data Scientist,Chicago,Sports & Outdoors,7151
+5771,0933,344842,M,46-50,Teacher,Chicago,Sports & Outdoors,1899
+5802,0936,184742,M,18-25,Electrician,Chicago,Office Supplies,4691
+5807,0937,331942,M,26-35,Lawyer,New York,Sports & Outdoors,3722
+5842,0949,227542,M,51-55,Pilot,Los Angeles,Garden & Outdoors,741
+5869,0953,112342,M,51-55,Veterinarian,Los Angeles,Garden & Outdoors,935
+5879,0954,026542,F,26-35,Software Developer,Los Angeles,Automotive,7877
+5884,0955,111042,F,51-55,Financial Analyst,Los Angeles,Musical Instruments,8622
+5917,0959,330442,M,51-55,Journalist,Chicago,Sports & Outdoors,7017
+5926,0961,335442,M,18-25,Mechanical Engineer,New York,Electronics,11810
+5955,0969,103042,F,26-35,Journalist,Chicago,Electronics,8265
+5956,0970,358442,M,26-35,Software Developer,Los Angeles,Electronics,11943
+5986,0972,321942,M,46-50,Teacher,New York,Sports & Outdoors,1960
+5994,0974,090942,M,36-45,Social Worker,Chicago,Electronics,15511
+5996,0975,057742,M,36-45,Software Developer,Los Angeles,Clothing,16361
+6012,0976,262342,M,36-45,Civil Engineer,Chicago,Musical Instruments,12596
+6031,0978,251442,M,18-25,Software Developer,Chicago,Sports & Outdoors,2016
+6038,0981,015742,M,26-35,Veterinarian,Los Angeles,Toys & Games,16833
+6042,0982,176542,F,26-35,Chef,Chicago,Automotive,7922
+6043,0983,321742,F,26-35,Dentist,Chicago,Sports & Outdoors,8876
+6045,0984,294142,M,51-55,Dentist,New York,Sports & Outdoors,1796
+6077,0986,369042,F,55+,Software Developer,Chicago,Automotive,7810
+6087,0989,242342,M,51-55,Software Developer,Chicago,Automotive,9989
+6089,0990,024642,M,18-25,Marketing Manager,Chicago,Sports & Outdoors,6954
+6092,0992,141842,F,36-45,Nurse,Los Angeles,Sports & Outdoors,5278
+6097,0995,078742,F,18-25,Electrician,Chicago,Sports & Outdoors,5229
+6146,1000,293842,F,26-35,Marketing Manager,Los Angeles,Electronics,7967
+6150,1002,370642,M,51-55,Journalist,Los Angeles,Automotive,7822
+6170,1008,090842,M,36-45,Nurse,Chicago,Office Supplies,5909
+6172,1009,306042,M,51-55,Financial Analyst,Chicago,Clothing,12925
+6174,1010,115442,M,26-35,Software Developer,New York,Automotive,9753
+6221,1015,118742,M,36-45,Nurse,New York,Sports & Outdoors,8903
+6279,1017,368942,M,36-45,Software Developer,Los Angeles,Office Supplies,3025
+6304,1019,105942,M,36-45,Teacher,New York,Sports & Outdoors,5461
+6359,1026,347942,F,46-50,Software Developer,Chicago,Automotive,6047
+6379,1031,274242,M,36-45,Dentist,Chicago,Electronics,15722
+6399,1036,111742,M,36-45,Financial Analyst,Chicago,Musical Instruments,13007
+6404,1038,248742,F,55+,Lawyer,Chicago,Sports & Outdoors,6991
+6411,1040,034442,M,26-35,Journalist,Chicago,Electronics,15799
+6419,1041,085042,M,46-50,Graphic Designer,Los Angeles,Sports & Outdoors,6985
+6422,1042,259342,M,36-45,Data Scientist,Chicago,Sports & Outdoors,5299
+6501,1052,104742,F,36-45,Graphic Designer,Chicago,Toys & Games,12648
+6576,1060,144642,M,18-25,Mechanical Engineer,Chicago,Electronics,19426
+6584,1062,053842,M,51-55,Social Worker,Chicago,Home & Kitchen,2738
+6601,1064,258742,M,26-35,Financial Analyst,Chicago,Sports & Outdoors,6995
+6603,1065,153742,F,26-35,Software Developer,Los Angeles,Automotive,8123
+6613,1068,111942,F,18-25,Electrician,Los Angeles,Automotive,10060
+6638,1069,365042,M,26-35,Veterinarian,New York,Health & Beauty,8419
+6685,1074,177942,M,46-50,Pilot,New York,Sports & Outdoors,3496
+6689,1075,109142,F,26-35,Marketing Manager,New York,Automotive,7945
+6693,1076,065042,F,26-35,Nurse,Chicago,Sports & Outdoors,6872
+6696,1077,211242,M,26-35,Nurse,New York,Automotive,7961
+6719,1083,088542,M,55+,Software Developer,Los Angeles,Sports & Outdoors,8865
+6813,1089,274442,M,36-45,Marketing Manager,Chicago,Electronics,19434
+6816,1090,078142,M,26-35,Financial Analyst,Chicago,Automotive,4102
+6822,1092,176842,F,18-25,Electrician,Chicago,Pet Supplies,1395
+6827,1094,047142,F,18-25,Software Developer,Chicago,Clothing,9845
+6862,1098,261542,M,36-45,Financial Analyst,Chicago,Furniture,16570
+6863,1099,024042,M,26-35,Pilot,Chicago,Toys & Games,16256
+6892,1101,114842,M,36-45,Teacher,New York,Sports & Outdoors,8676
+6916,1103,092542,F,46-50,Financial Analyst,Chicago,Automotive,8018
+6917,1104,097742,M,36-45,Journalist,New York,Automotive,8118
+6929,1109,150342,M,18-25,Mechanical Engineer,Chicago,Automotive,5826
+6966,1113,074342,M,18-25,Electrician,Los Angeles,Sports & Outdoors,8726
+7036,1119,116242,M,36-45,Teacher,Los Angeles,Automotive,9989
+7099,1124,074142,M,26-35,Graphic Designer,Los Angeles,Groceries,10863
+7138,1128,318742,M,26-35,Teacher,New York,Electronics,12077
+7181,1131,141442,M,55+,Pharmacist,Chicago,Automotive,7900
+7205,1135,364842,M,51-55,Pharmacist,Chicago,Sports & Outdoors,6858
+7208,1136,227142,F,36-45,Financial Analyst,Chicago,Sports & Outdoors,7125
+7212,1137,305642,M,18-25,Electrician,Los Angeles,Toys & Games,21011
+7229,1138,173842,M,18-25,Photographer,Chicago,Electronics,7964
+7233,1139,296242,M,26-35,Teacher,Chicago,Automotive,9707
+7239,1140,288242,F,46-50,Graphic Designer,Los Angeles,Sports & Outdoors,5204
+7279,1142,154642,M,18-25,Teacher,Los Angeles,Automotive,5911
+7295,1146,197942,F,18-25,Dentist,Los Angeles,Health & Beauty,12020
+7321,1149,250642,M,26-35,Photographer,New York,Office Supplies,5955
+7397,1152,065242,M,18-25,Electrician,Chicago,Clothing,6514
+7415,1156,268242,F,51-55,Graphic Designer,New York,Sports & Outdoors,7038
+7417,1158,035142,F,36-45,Teacher,Chicago,Electronics,15285
+7421,1159,159542,M,18-25,Software Developer,Chicago,Jewelry & Accessories,14656
+7429,1161,018142,M,26-35,Software Developer,New York,Sports & Outdoors,5362
+7446,1164,150742,F,26-35,Social Worker,New York,Automotive,5820
+46560,1167,237442,F,51-55,Teacher,Los Angeles,Automotive,7758
+7473,1168,212942,F,26-35,Software Developer,New York,Sports & Outdoors,5185
+7487,1170,109542,M,55+,Nurse,New York,Automotive,9946
+7515,1173,268442,F,26-35,Financial Analyst,New York,Automotive,7838
+7531,1176,218442,M,55+,Teacher,Chicago,Electronics,15399
+7542,1178,116142,M,55+,Software Developer,Chicago,Jewelry & Accessories,23958
+7543,1179,303742,M,51-55,Teacher,Los Angeles,Automotive,6199
+7642,1183,323042,M,36-45,Social Worker,Los Angeles,Sports & Outdoors,8713
+7654,1184,162442,F,26-35,Electrician,Chicago,Electronics,15298
+7661,1185,264042,F,36-45,Teacher,Chicago,Home & Kitchen,2172
+7673,1190,345842,M,46-50,Software Developer,Chicago,Clothing,12758
+7675,1191,200642,F,36-45,Software Developer,Los Angeles,Jewelry & Accessories,23507
+7677,1193,262242,M,26-35,Photographer,Chicago,Electronics,3871
+7724,1199,080042,M,51-55,Pharmacist,Chicago,Sports & Outdoors,7160
+7780,1205,250742,F,55+,Software Developer,Chicago,Automotive,4226
+7793,1209,104842,M,36-45,Financial Analyst,Chicago,Automotive,7986
+7801,1211,029842,M,18-25,Electrician,New York,Automotive,5930
+7814,1214,340242,M,55+,Pharmacist,Chicago,Food & Beverages,2291
+7821,1216,286642,M,26-35,Graphic Designer,New York,Office Supplies,3159
+7835,1219,114042,M,26-35,Financial Analyst,Chicago,Sports & Outdoors,6956
+7879,1224,008242,M,51-55,Pharmacist,Los Angeles,Automotive,3998
+7913,1227,005042,M,51-55,Teacher,Los Angeles,Health & Beauty,16244
+7924,1230,251242,M,26-35,Journalist,Los Angeles,Sports & Outdoors,8750
+7954,1237,102142,M,18-25,Electrician,Chicago,Garden & Outdoors,929
+8052,1247,086342,M,36-45,Software Developer,Los Angeles,Automotive,9764
+8059,1250,086242,M,51-55,Software Developer,Chicago,Jewelry & Accessories,23251
+8066,1253,105542,F,36-45,Veterinarian,Chicago,Automotive,9870
+8068,1254,033242,F,18-25,Teacher,Los Angeles,Automotive,4055
+8090,1258,368342,M,46-50,Financial Analyst,Chicago,Sports & Outdoors,8784
+8091,1259,368442,M,36-45,Financial Analyst,Chicago,Office Supplies,7496
+8212,1268,120142,M,51-55,Graphic Designer,Los Angeles,Sports & Outdoors,8800
+8227,1271,313542,F,46-50,Marketing Manager,Chicago,Sports & Outdoors,8641
+8295,1279,248342,M,36-45,Teacher,New York,Automotive,9886
+8321,1283,097142,F,18-25,Teacher,Chicago,Pet Supplies,1759
+8324,1284,033642,M,46-50,Dentist,New York,Sports & Outdoors,6961
+8384,1286,334642,M,36-45,Pilot,New York,Electronics,4123
+8398,1291,173442,F,36-45,Software Developer,New York,Automotive,7834
+8415,1294,368242,F,51-55,Veterinarian,Los Angeles,Sports & Outdoors,5429
+8449,1298,263542,M,36-45,Marketing Manager,Los Angeles,Furniture,20660
+8496,1302,150942,M,18-25,Electrician,Chicago,Health & Beauty,20172
+8554,1312,189842,M,26-35,Civil Engineer,Los Angeles,Groceries,11033
+8559,1313,127242,M,18-25,Electrician,Los Angeles,Electronics,15190
+8576,1317,249642,M,46-50,Financial Analyst,Los Angeles,Groceries,8091
+47735,1318,216442,M,18-25,Dentist,Los Angeles,Sports & Outdoors,6856
+8644,1323,188742,F,36-45,Graphic Designer,Chicago,Automotive,7859
+8655,1325,137542,M,26-35,Teacher,Los Angeles,Electronics,11939
+8667,1326,083642,F,26-35,Software Developer,New York,Automotive,6114
+8701,1333,178642,M,26-35,Pilot,New York,Sports & Outdoors,8634
+8731,1336,101842,F,51-55,Veterinarian,Los Angeles,Health & Beauty,16519
+8732,1337,058142,M,55+,Pilot,Chicago,Groceries,13237
+8733,1338,182142,M,26-35,Software Developer,New York,Electronics,15833
+8739,1339,356742,M,36-45,Research Scientist,Chicago,Sports & Outdoors,1858
+8748,1340,116342,M,26-35,Financial Analyst,New York,Clothing,6354
+8779,1341,070242,M,18-25,Financial Analyst,Chicago,Sports & Outdoors,5148
+8782,1342,194042,M,36-45,Software Developer,Chicago,Automotive,6044
+8795,1345,218842,F,26-35,Graphic Designer,Chicago,Sports & Outdoors,1753
+8805,1346,361342,M,36-45,Veterinarian,Chicago,Sports & Outdoors,8844
+8817,1350,051642,F,36-45,Software Developer,Chicago,Automotive,7792
+8820,1351,022642,F,26-35,Pilot,Chicago,Sports & Outdoors,6862
+8862,1356,032442,F,18-25,Electrician,Los Angeles,Sports & Outdoors,3665
+8895,1359,058242,M,36-45,Teacher,Chicago,Groceries,13625
+8902,1361,087242,F,26-35,Software Developer,New York,Baby Products,15190
+8939,1369,100642,M,26-35,Data Scientist,Los Angeles,Sports & Outdoors,5232
+9017,1383,278442,F,26-35,Financial Analyst,New York,Office Supplies,1634
+9065,1388,001642,M,55+,Veterinarian,Chicago,Automotive,6170
+9087,1390,040242,M,36-45,Dentist,Chicago,Sports & Outdoors,5322
+9138,1396,064042,F,26-35,Photographer,New York,Groceries,10849
+9193,1410,367242,M,51-55,Financial Analyst,Los Angeles,Office Supplies,5920
+9196,1411,351242,M,36-45,Teacher,Chicago,Groceries,3072
+9199,1413,112942,M,18-25,Nurse,Los Angeles,Electronics,19629
+9236,1420,120742,M,18-25,Electrician,Chicago,Automotive,6135
+9285,1423,106042,M,26-35,Electrician,Chicago,Sports & Outdoors,7080
+9288,1424,236542,M,36-45,Software Developer,Chicago,Automotive,7886
+9330,1427,306242,M,26-35,Photographer,Chicago,Groceries,7922
+87095,1431,194442,M,55+,Marketing Manager,Chicago,Sports & Outdoors,5251
+9346,1432,247142,M,36-45,Teacher,Chicago,Automotive,5872
+9347,1433,157642,F,18-25,Civil Engineer,Chicago,Electronics,19464
+48489,1435,035742,M,26-35,Civil Engineer,New York,Office Supplies,4503
+9361,1436,173242,F,51-55,Marketing Manager,Los Angeles,Sports & Outdoors,6853
+9365,1437,308242,M,51-55,Nurse,Chicago,Sports & Outdoors,1849
+9397,1446,085542,M,36-45,Photographer,Los Angeles,Sports & Outdoors,8902
+9560,1454,026042,M,18-25,Electrician,Chicago,Automotive,7972
+9561,1455,210042,F,46-50,Software Developer,Los Angeles,Automotive,8058
+9583,1461,179342,F,46-50,Software Developer,Los Angeles,Office Supplies,3124
+9587,1464,201442,M,36-45,Photographer,Chicago,Electronics,19704
+9589,1465,239242,M,51-55,Dentist,Los Angeles,Sports & Outdoors,7176
+9644,1469,239642,M,55+,Veterinarian,Chicago,Sports & Outdoors,5351
+87447,1477,032642,F,46-50,Teacher,Chicago,Garden & Outdoors,761
+9719,1481,109042,M,36-45,Pilot,Chicago,Automotive,7975
+9720,1482,113842,M,26-35,Financial Analyst,Chicago,Health & Beauty,16295
+9733,1484,135642,M,26-35,Photographer,Chicago,Automotive,7774
+9747,1485,004742,F,26-35,Chef,Chicago,Health & Beauty,20023
+9752,1487,316442,M,36-45,Financial Analyst,Chicago,Sports & Outdoors,2043
+9855,1501,030942,M,26-35,Journalist,New York,Home & Kitchen,2130
+9891,1504,000642,M,18-25,Social Worker,New York,Electronics,15516
+9895,1505,015042,M,51-55,Journalist,Chicago,Automotive,4221
+9927,1511,174842,M,36-45,Photographer,Chicago,Tools & Home Improvement,13193
+9930,1513,183942,F,36-45,Dentist,Chicago,Groceries,10664
+9934,1514,182842,M,18-25,Electrician,Los Angeles,Sports & Outdoors,5417
+9956,1517,362042,M,18-25,Software Developer,Los Angeles,Sports & Outdoors,3597
+9965,1520,019142,M,26-35,Pilot,Los Angeles,Office Supplies,1545
+9966,1521,155342,F,26-35,Financial Analyst,Chicago,Sports & Outdoors,1884
+9972,1524,249842,M,18-25,Electrician,Los Angeles,Automotive,1939
+9986,1526,329442,M,55+,Pilot,Chicago,Sports & Outdoors,7103
+9988,1527,330342,M,18-25,Mechanical Engineer,Chicago,Sports & Outdoors,5337
+9993,1528,230942,M,26-35,Lawyer,Chicago,Sports & Outdoors,8743
+243533,1529,000242,M,18-25,Electrician,Chicago,Clothing,9888
+10022,1538,127342,M,26-35,Nurse,Chicago,Electronics,15190
+49151,1539,177142,M,26-35,Nurse,Chicago,Automotive,7925
+10030,1541,150142,M,55+,Pilot,Chicago,Automotive,8115
+10065,1545,113342,M,26-35,Veterinarian,New York,Electronics,15818
+10092,1550,315542,M,18-25,Electrician,Chicago,Sports & Outdoors,3726
+10111,1554,123642,F,36-45,Photographer,Chicago,Office Supplies,1582
+10116,1556,216142,M,18-25,Electrician,New York,Electronics,15372
+10146,1562,059242,M,18-25,Veterinarian,Chicago,Office Supplies,3190
+10150,1564,162042,M,51-55,Teacher,Chicago,Electronics,11985
+10158,1569,177342,F,55+,Pharmacist,Chicago,Automotive,9799
+10161,1570,149342,M,18-25,Pilot,Los Angeles,Garden & Outdoors,566
+10163,1571,196442,M,26-35,Veterinarian,Los Angeles,Sports & Outdoors,5300
+10169,1572,133742,F,26-35,Nurse,Chicago,Sports & Outdoors,5278
+10173,1574,181742,M,26-35,Marketing Manager,Chicago,Office Supplies,6145
+10177,1577,043142,M,55+,Software Developer,Chicago,Sports & Outdoors,5252
+10184,1578,258342,M,18-25,Electrician,Los Angeles,Office Supplies,2948
+10246,1585,197042,M,55+,Veterinarian,Chicago,Sports & Outdoors,7096
+10250,1586,210942,M,46-50,Financial Analyst,Los Angeles,Sports & Outdoors,6997
+10265,1587,350642,F,26-35,Nurse,Los Angeles,Automotive,5882
+10294,1591,124742,M,51-55,Financial Analyst,Chicago,Jewelry & Accessories,23359
+10401,1602,214442,F,26-35,Financial Analyst,Chicago,Automotive,9711
+10471,1610,164842,M,26-35,Journalist,Los Angeles,Sports & Outdoors,5393
+10494,1612,343042,M,26-35,Pilot,Chicago,Sports & Outdoors,5450
+10550,1618,117842,M,51-55,Software Developer,Chicago,Sports & Outdoors,7035
+10553,1620,310842,M,26-35,Veterinarian,Los Angeles,Health & Beauty,16107
+10557,1623,302142,M,51-55,Lawyer,Chicago,Sports & Outdoors,8805
+10561,1624,226342,M,26-35,Software Developer,Los Angeles,Office Supplies,1633
+10605,1630,198642,M,46-50,Pilot,Chicago,Automotive,3924
+10736,1642,114442,M,51-55,Pharmacist,Chicago,Sports & Outdoors,7074
+10818,1649,074642,M,18-25,Social Worker,Chicago,Sports & Outdoors,3717
+10835,1655,052342,M,18-25,Electrician,Chicago,Automotive,5996
+10846,1657,307142,F,46-50,Software Developer,Los Angeles,Automotive,5868
+10866,1660,286842,F,26-35,Graphic Designer,Chicago,Sports & Outdoors,8580
+10868,1665,315042,M,46-50,Pilot,Los Angeles,Automotive,8063
+10874,1666,204742,M,26-35,Civil Engineer,Los Angeles,Automotive,7995
+10894,1667,212542,M,51-55,Dentist,Los Angeles,Automotive,4108
+11055,1680,036742,M,26-35,Veterinarian,New York,Electronics,15670
+11160,1685,039742,M,36-45,Photographer,Los Angeles,Sports & Outdoors,7031
+11188,1688,213642,F,18-25,Electrician,Chicago,Office Supplies,3106
+11194,1691,192542,F,26-35,Pilot,Chicago,Electronics,11592
+11253,1697,027442,F,18-25,Electrician,Los Angeles,Automotive,6012
+11298,1702,078842,M,18-25,Mechanical Engineer,Chicago,Electronics,15317
+11302,1704,226242,M,26-35,Electrician,Chicago,Office Supplies,4674
+11304,1705,085742,F,18-25,Electrician,Chicago,Home & Kitchen,2757
+11307,1706,141542,M,26-35,Veterinarian,Los Angeles,Sports & Outdoors,8732
+11316,1709,003442,M,26-35,Software Developer,Chicago,Home & Kitchen,3479
+11329,1712,132842,M,26-35,Software Developer,Los Angeles,Electronics,8075
+11366,1717,176642,F,51-55,Marketing Manager,Los Angeles,Health & Beauty,20651
+11450,1731,307542,F,18-25,Software Developer,Chicago,Electronics,15588
+11495,1736,189742,M,55+,Architect,Chicago,Clothing,9847
+11501,1737,329342,M,36-45,Veterinarian,Los Angeles,Sports & Outdoors,5271
+11542,1741,237542,M,36-45,Financial Analyst,New York,Electronics,19652
+11604,1747,155442,M,26-35,Software Developer,Chicago,Electronics,12064
+11625,1749,026742,M,26-35,Graphic Designer,Los Angeles,Automotive,3945
+11649,1752,212742,M,26-35,Nurse,Los Angeles,Sports & Outdoors,8781
+11666,1753,363742,M,36-45,Marketing Manager,Los Angeles,Sports & Outdoors,6894
+11702,1756,253142,F,26-35,Teacher,Los Angeles,Electronics,15174
+11755,1761,005942,M,36-45,Software Developer,Chicago,Clothing,6368
+50907,1773,025142,M,18-25,Electrician,Los Angeles,Garden & Outdoors,766
+11830,1775,276342,M,26-35,Electrician,Chicago,Sports & Outdoors,7026
+11834,1776,342042,M,26-35,Software Developer,Los Angeles,Office Supplies,3077
+11904,1781,233042,F,36-45,Software Developer,Chicago,Electronics,4466
+11908,1784,121542,M,18-25,Veterinarian,Los Angeles,Automotive,2319
+11911,1786,099242,M,46-50,Teacher,Chicago,Automotive,6087
+11912,1787,034042,M,18-25,Architect,New York,Electronics,11682
+11914,1788,193242,M,46-50,Graphic Designer,New York,Health & Beauty,16449
+11917,1790,369942,M,26-35,Software Developer,Chicago,Clothing,3677
+11969,1795,114942,M,18-25,Pilot,Chicago,Electronics,19088
+11972,1796,114542,M,51-55,Journalist,Chicago,Sports & Outdoors,8701
+11979,1797,320442,M,36-45,Financial Analyst,Chicago,Health & Beauty,12150
+12042,1810,145942,M,51-55,Pharmacist,New York,Health & Beauty,12457
+12076,1813,087442,F,36-45,Marketing Manager,Chicago,Sports & Outdoors,3444
+12079,1816,122542,F,36-45,Chef,Chicago,Office Supplies,7496
+12090,1820,165442,M,26-35,Veterinarian,Los Angeles,Electronics,11768
+51152,1821,003042,M,26-35,Veterinarian,Chicago,Automotive,9840
+12097,1822,215442,F,26-35,Software Developer,Chicago,Musical Instruments,20947
+12101,1824,296142,F,18-25,Electrician,Chicago,Sports & Outdoors,1906
+12126,1831,323442,M,18-25,Electrician,Los Angeles,Sports & Outdoors,5205
+12219,1839,182342,M,18-25,Electrician,Chicago,Electronics,15413
+12220,1841,309142,M,18-25,Software Developer,Chicago,Electronics,11794
+12267,1847,095142,M,18-25,Electrician,Chicago,Clothing,3807
+12275,1851,143342,M,26-35,Social Worker,Los Angeles,Electronics,4361
+12317,1859,045542,F,26-35,Electrician,Chicago,Sports & Outdoors,5219
+12327,1861,121142,M,51-55,Dentist,New York,Automotive,6059
+51411,1864,368842,M,36-45,Financial Analyst,Los Angeles,Musical Instruments,9056
+12370,1867,006942,M,51-55,Financial Analyst,New York,Electronics,7735
+12388,1875,244842,M,36-45,Photographer,New York,Office Supplies,2996
+12398,1877,001442,F,46-50,Veterinarian,Los Angeles,Automotive,9861
+12431,1880,195542,M,36-45,Software Developer,Los Angeles,Clothing,10075
+12466,1882,184042,M,36-45,Dentist,Chicago,Electronics,15413
+12531,1887,173942,M,55+,Lawyer,Chicago,Electronics,11471
+12535,1888,217442,M,36-45,Photographer,Chicago,Electronics,15392
+12583,1895,274042,M,36-45,Civil Engineer,Chicago,Electronics,15542
+12588,1896,086642,M,55+,Pharmacist,Chicago,Automotive,8128
+12669,1904,219142,M,18-25,Teacher,Los Angeles,Sports & Outdoors,3707
+12684,1907,350142,M,36-45,Pilot,Chicago,Automotive,10061
+12700,1912,243342,M,26-35,Electrician,New York,Office Supplies,4623
+12739,1914,354342,F,36-45,Civil Engineer,Los Angeles,Sports & Outdoors,3522
+12750,1917,035942,M,18-25,Mechanical Engineer,Los Angeles,Electronics,11950
+12755,1918,207942,F,46-50,Marketing Manager,Chicago,Health & Beauty,12339
+12838,1930,283942,M,26-35,Lawyer,New York,Sports & Outdoors,7158
+12859,1932,347742,M,26-35,Financial Analyst,New York,Toys & Games,20807
+12869,1934,183442,M,26-35,Pilot,Los Angeles,Electronics,11585
+12870,1937,002142,M,26-35,Journalist,Chicago,Electronics,8270
+12884,1938,261842,F,26-35,Graphic Designer,Chicago,Clothing,9691
+12897,1939,037242,F,36-45,Graphic Designer,Chicago,Automotive,6143
+13018,1947,327242,M,26-35,Financial Analyst,Los Angeles,Sports & Outdoors,7075
+13046,1952,365142,M,36-45,Teacher,Los Angeles,Health & Beauty,4262
+13056,1954,074042,M,26-35,Dentist,Chicago,Furniture,4258
+13136,1964,151842,F,26-35,Marketing Manager,Chicago,Home & Kitchen,2834
+13164,1969,120042,F,26-35,Nurse,Los Angeles,Electronics,15609
+13182,1970,093542,M,51-55,Pharmacist,Chicago,Electronics,12075
+13191,1974,341742,M,36-45,Pilot,Los Angeles,Musical Instruments,21237
+13215,1977,294442,M,55+,Marketing Manager,Chicago,Groceries,7950
+13226,1979,160042,M,55+,Pilot,Los Angeles,Electronics,11414
+13286,1981,304442,M,55+,Teacher,Chicago,Electronics,7581
+13314,1984,351842,M,18-25,Mechanical Engineer,Los Angeles,Sports & Outdoors,5173
+13363,1993,116642,M,36-45,Pilot,Chicago,Sports & Outdoors,7090
+13368,1996,369142,M,36-45,Software Developer,Chicago,Musical Instruments,4150
+13377,1998,111442,F,51-55,Chef,Los Angeles,Automotive,7856
+13414,2004,032042,M,46-50,Social Worker,Chicago,Electronics,15631
+13424,2006,096442,M,36-45,Software Developer,New York,Home & Kitchen,2814
+13481,2011,142942,F,36-45,Nurse,Los Angeles,Electronics,15439
+13620,2026,090242,M,51-55,Dentist,Chicago,Health & Beauty,12637
+13677,2032,098242,M,51-55,Civil Engineer,Chicago,Electronics,15892
+13689,2036,110042,F,26-35,Civil Engineer,Los Angeles,Sports & Outdoors,8769
+13703,2039,253542,M,51-55,Dentist,Chicago,Automotive,5979
+13729,2043,223642,M,26-35,Civil Engineer,Chicago,Office Supplies,2947
+13751,2048,051142,M,51-55,Marketing Manager,Los Angeles,Automotive,7834
+13765,2051,354442,M,36-45,Financial Analyst,Chicago,Sports & Outdoors,3601
+13781,2053,302642,M,46-50,Journalist,Chicago,Furniture,16846
+13806,2056,181842,M,26-35,Electrician,Los Angeles,Office Supplies,6101
+13822,2057,318942,M,36-45,Teacher,Chicago,Automotive,7963
+13823,2058,217742,F,55+,Teacher,Los Angeles,Sports & Outdoors,5424
+13826,2059,095542,M,36-45,Software Developer,Los Angeles,Clothing,9819
+13852,2063,234842,M,26-35,Electrician,New York,Sports & Outdoors,5401
+13913,2068,001142,F,36-45,Photographer,Chicago,Sports & Outdoors,8606
+13927,2071,296942,M,46-50,Financial Analyst,Chicago,Automotive,6170
+13979,2078,174442,M,18-25,Electrician,Chicago,Sports & Outdoors,7160
+14049,2091,059142,F,36-45,Veterinarian,Chicago,Automotive,7971
+14060,2092,228342,M,55+,Teacher,Los Angeles,Electronics,11408
+14092,2094,088242,M,36-45,Graphic Designer,Los Angeles,Health & Beauty,20216
+14097,2095,297342,M,55+,Pharmacist,Chicago,Sports & Outdoors,5247
+14216,2106,220142,F,18-25,Veterinarian,New York,Electronics,4189
+14255,2109,202542,M,26-35,Dentist,Los Angeles,Garden & Outdoors,933
+14291,2110,368142,M,51-55,Journalist,Chicago,Clothing,13011
+14308,2116,324542,M,18-25,Electrician,Los Angeles,Sports & Outdoors,5468
+14345,2117,158942,M,55+,Pharmacist,Los Angeles,Electronics,7597
+14348,2119,101942,M,36-45,Electrician,Los Angeles,Automotive,7805
+14370,2124,179142,M,26-35,Software Developer,Los Angeles,Office Supplies,6096
+14436,2134,249742,M,18-25,Mechanical Engineer,Los Angeles,Electronics,4064
+14438,2136,208542,M,36-45,Research Scientist,Chicago,Automotive,7935
+14449,2140,126642,M,46-50,Civil Engineer,Chicago,Automotive,3936
+14464,2144,180542,M,18-25,Software Developer,Chicago,Office Supplies,1758
+14479,2146,182042,M,18-25,Graphic Designer,Chicago,Office Supplies,3074
+14504,2153,173542,M,18-25,Dentist,Los Angeles,Sports & Outdoors,5218
+14524,2156,124842,M,18-25,Social Worker,Chicago,Office Supplies,6105
+14539,2158,259042,M,26-35,Photographer,New York,Sports & Outdoors,5227
+14546,2159,336542,F,51-55,Civil Engineer,New York,Pet Supplies,1725
+14549,2161,224542,F,36-45,Graphic Designer,Chicago,Automotive,7889
+14572,2164,254942,M,36-45,Software Developer,Los Angeles,Furniture,12277
+14582,2165,361942,M,26-35,Financial Analyst,Chicago,Electronics,11798
+14624,2170,010342,F,51-55,Dentist,Chicago,Automotive,10024
+14628,2171,271042,M,36-45,Software Developer,New York,Health & Beauty,16674
+14630,2172,174542,M,18-25,Veterinarian,Los Angeles,Office Supplies,1631
+14656,2173,313442,M,51-55,Pharmacist,Chicago,Sports & Outdoors,5436
+14692,2179,087142,F,26-35,Software Developer,Chicago,Garden & Outdoors,568
+14700,2180,129842,M,26-35,Photographer,Los Angeles,Health & Beauty,12292
+14718,2181,297442,M,26-35,Software Developer,Los Angeles,Clothing,3687
+14747,2183,158842,F,55+,Teacher,Chicago,Automotive,6048
+14755,2185,284642,M,46-50,Pilot,Chicago,Sports & Outdoors,8825
+14776,2186,367142,M,18-25,Data Scientist,Chicago,Office Supplies,3073
+14783,2187,189142,M,46-50,Dentist,Chicago,Automotive,7922
+14789,2188,139942,F,18-25,Social Worker,Los Angeles,Sports & Outdoors,7033
+14836,2198,211042,F,36-45,Chef,Chicago,Sports & Outdoors,6925
+14860,2204,209642,M,55+,Nurse,Los Angeles,Musical Instruments,21194
+14861,2205,310442,F,26-35,Financial Analyst,New York,Automotive,6137
+14896,2209,183242,M,36-45,Financial Analyst,New York,Sports & Outdoors,3449
+14979,2224,246342,M,26-35,Photographer,Chicago,Office Supplies,5978
+14980,2225,349942,M,26-35,Data Scientist,Los Angeles,Electronics,11447
+14997,2228,070342,M,26-35,Photographer,Chicago,Electronics,15847
+15029,2232,065442,M,26-35,Civil Engineer,Los Angeles,Automotive,9936
+15119,2243,251342,M,46-50,Graphic Designer,Chicago,Sports & Outdoors,7042
+15140,2249,328342,M,26-35,Data Scientist,Chicago,Sports & Outdoors,7142
+15142,2250,138442,M,18-25,Social Worker,New York,Electronics,4036
+15159,2252,268342,F,18-25,Teacher,Los Angeles,Sports & Outdoors,5409
+15162,2254,334042,M,36-45,Data Scientist,Chicago,Electronics,11583
+15164,2255,155242,F,36-45,Marketing Manager,Los Angeles,Groceries,13199
+15174,2257,358242,F,18-25,Electrician,Los Angeles,Automotive,10058
+15187,2259,367442,F,55+,Dentist,Chicago,Automotive,4138
+15205,2263,266542,M,26-35,Marketing Manager,Chicago,Clothing,10082
+15236,2266,014542,F,51-55,Graphic Designer,Chicago,Automotive,9773
+15239,2267,188542,F,55+,Pharmacist,Chicago,Sports & Outdoors,6880
+15243,2268,021842,F,36-45,Teacher,Chicago,Sports & Outdoors,6945
+15279,2274,198142,M,18-25,Graphic Designer,Los Angeles,Clothing,16399
+15281,2275,224142,M,55+,Financial Analyst,Chicago,Automotive,10067
+15285,2276,315642,M,55+,Pharmacist,Chicago,Automotive,5903
+15289,2278,282942,M,51-55,Pilot,Los Angeles,Sports & Outdoors,5465
+15301,2280,293342,M,55+,Marketing Manager,Los Angeles,Automotive,8094
+15309,2283,050542,M,36-45,Research Scientist,Chicago,Sports & Outdoors,5343
+15317,2286,158242,M,36-45,Pilot,Chicago,Health & Beauty,12515
+15320,2287,111542,M,55+,Software Developer,Chicago,Clothing,16030
+15365,2297,233242,M,55+,Pharmacist,Chicago,Musical Instruments,16873
+15371,2299,146742,F,18-25,Mechanical Engineer,Los Angeles,Electronics,8009
+15390,2303,329242,M,51-55,Pilot,Los Angeles,Sports & Outdoors,7093
+15442,2305,141042,M,51-55,Veterinarian,New York,Automotive,6018
+15487,2323,108442,M,36-45,Nurse,Los Angeles,Sports & Outdoors,5215
+15508,2327,070042,M,18-25,Mechanical Engineer,Chicago,Electronics,15604
+15515,2332,177742,M,55+,Civil Engineer,Los Angeles,Automotive,10059
+54615,2337,302542,M,36-45,Pilot,Los Angeles,Sports & Outdoors,7182
+15539,2340,311642,M,36-45,Graphic Designer,New York,Automotive,8134
+15558,2343,084042,F,46-50,Teacher,Chicago,Pet Supplies,1403
+15559,2344,025242,M,26-35,Photographer,New York,Clothing,6953
+15567,2347,097242,M,36-45,Teacher,Chicago,Electronics,15193
+15582,2350,196042,M,18-25,Electrician,Chicago,Home & Kitchen,2861
+15586,2351,032842,F,26-35,Software Developer,Los Angeles,Automotive,6062
+15616,2362,020442,M,26-35,Civil Engineer,New York,Automotive,7825
+15623,2366,349242,F,46-50,Dentist,Chicago,Automotive,5839
+15629,2368,278542,F,55+,Pharmacist,Chicago,Automotive,8017
+15638,2369,023942,M,36-45,Civil Engineer,Los Angeles,Health & Beauty,20306
+15642,2371,303342,F,36-45,Financial Analyst,Chicago,Electronics,11604
+15643,2372,358742,F,46-50,Financial Analyst,Chicago,Sports & Outdoors,8805
+15648,2374,316642,M,26-35,Civil Engineer,Los Angeles,Home & Kitchen,3442
+15674,2378,196242,M,26-35,Nurse,Chicago,Groceries,8337
+15702,2381,262442,F,36-45,Chef,Los Angeles,Home & Kitchen,1490
+15705,2383,132642,F,26-35,Civil Engineer,Los Angeles,Electronics,7654
+54832,2385,368042,F,46-50,Graphic Designer,Los Angeles,Clothing,9686
+15722,2386,190942,F,26-35,Software Developer,Los Angeles,Groceries,10768
+15765,2399,218742,M,36-45,Pilot,Chicago,Sports & Outdoors,1782
+15766,2401,118842,M,26-35,Electrician,Chicago,Sports & Outdoors,6885
+15770,2402,224342,M,46-50,Pilot,Los Angeles,Automotive,5988
+15788,2404,136742,M,18-25,Financial Analyst,Chicago,Electronics,11542
+15793,2405,096942,M,51-55,Architect,Chicago,Groceries,5340
+15794,2406,212242,F,55+,Photographer,Chicago,Automotive,8027
+15806,2409,101742,F,36-45,Chef,Los Angeles,Pet Supplies,1431
+15810,2410,118542,M,55+,Financial Analyst,Chicago,Sports & Outdoors,5292
+54935,2412,328742,M,55+,Pharmacist,Chicago,Electronics,12073
+54937,2413,097042,F,55+,Financial Analyst,Chicago,Health & Beauty,8641
+15875,2420,016042,M,51-55,Financial Analyst,Chicago,Electronics,19202
+132687,2422,259142,F,51-55,Chef,Chicago,Sports & Outdoors,8776
+15885,2424,226442,M,26-35,Pilot,Chicago,Office Supplies,1643
+15903,2435,009342,M,26-35,Electrician,New York,Electronics,8149
+15907,2436,288942,M,26-35,Financial Analyst,Los Angeles,Electronics,19653
+15922,2438,343342,M,36-45,Teacher,New York,Clothing,3358
+15932,2442,236942,M,36-45,Pilot,Chicago,Pet Supplies,1371
+93694,2443,057342,F,36-45,Software Developer,Chicago,Home & Kitchen,2747
+16004,2454,030442,M,18-25,Software Developer,Los Angeles,Sports & Outdoors,6873
+16125,2469,085342,M,26-35,Electrician,Los Angeles,Jewelry & Accessories,19210
+16144,2476,020842,M,51-55,Photographer,Chicago,Automotive,8008
+16254,2496,041942,M,51-55,Teacher,Los Angeles,Sports & Outdoors,5317
+16274,2498,214642,M,55+,Research Scientist,Chicago,Office Supplies,1682
+16290,2503,186942,M,36-45,Pilot,Chicago,Sports & Outdoors,5226
+16353,2514,280342,M,55+,Civil Engineer,New York,Furniture,16632
+16357,2518,057442,M,26-35,Financial Analyst,Chicago,Sports & Outdoors,8626
+16385,2529,182242,F,36-45,Chef,New York,Electronics,19692
+16466,2538,117142,M,55+,Pharmacist,Los Angeles,Clothing,13039
+133297,2542,023342,F,46-50,Pharmacist,New York,Groceries,10609
+16548,2554,008142,M,26-35,Teacher,Los Angeles,Automotive,9858
+16565,2560,155642,F,46-50,Marketing Manager,Chicago,Automotive,10056
+16619,2572,102442,M,36-45,Civil Engineer,Chicago,Automotive,8094
+133483,2584,291342,F,55+,Teacher,Chicago,Automotive,7845
+16746,2597,035342,F,51-55,Software Developer,New York,Clothing,12916
+133573,2601,047442,M,36-45,Dentist,Chicago,Sports & Outdoors,6916
+16784,2608,021642,F,26-35,Teacher,New York,Automotive,6154
+16790,2611,040042,M,26-35,Nurse,Los Angeles,Sports & Outdoors,5236
+94578,2616,109942,M,36-45,Financial Analyst,Chicago,Automotive,7945
+16843,2622,029442,F,36-45,Marketing Manager,Los Angeles,Automotive,7853
+16883,2631,327542,F,51-55,Teacher,Los Angeles,Sports & Outdoors,8837
+16886,2632,283142,M,55+,Software Developer,Chicago,Garden & Outdoors,744
+16896,2636,028542,M,18-25,Photographer,Chicago,Health & Beauty,16349
+16898,2637,250942,F,36-45,Veterinarian,Los Angeles,Office Supplies,1602
+16919,2641,120242,M,26-35,Marketing Manager,Chicago,Automotive,9966
+16971,2649,216942,M,26-35,Dentist,Chicago,Sports & Outdoors,1724
+16994,2655,182442,M,36-45,Financial Analyst,Chicago,Sports & Outdoors,7083
+16997,2656,337542,M,55+,Pharmacist,Chicago,Sports & Outdoors,7071
+17011,2661,293142,M,55+,Pharmacist,Chicago,Sports & Outdoors,3608
+17016,2663,224042,F,26-35,Electrician,Los Angeles,Automotive,5822
+17022,2664,265542,M,36-45,Financial Analyst,Los Angeles,Sports & Outdoors,5480
+17041,2665,321342,M,36-45,Journalist,Los Angeles,Electronics,15696
+17088,2669,227942,M,46-50,Software Developer,Chicago,Clothing,6972
+17111,2674,319142,M,26-35,Electrician,New York,Sports & Outdoors,7137
+17120,2676,356942,M,55+,Veterinarian,Los Angeles,Automotive,8106
+17130,2678,117342,M,26-35,Marketing Manager,Chicago,Electronics,19139
+17187,2686,299542,M,26-35,Software Developer,Chicago,Automotive,5891
+17197,2691,147742,M,18-25,Electrician,Los Angeles,Electronics,15254
+17214,2696,171342,M,26-35,Financial Analyst,Chicago,Garden & Outdoors,763
+17230,2701,054242,M,46-50,Teacher,New York,Electronics,11521
+17266,2718,006142,F,26-35,Electrician,Chicago,Automotive,7894
+17279,2720,129342,M,36-45,Software Developer,Chicago,Electronics,4440
+17280,2724,098442,F,46-50,Graphic Designer,New York,Toys & Games,20833
+17286,2726,051842,M,46-50,Journalist,Chicago,Home & Kitchen,2740
+17294,2728,362442,M,36-45,Photographer,Chicago,Sports & Outdoors,1889
+17308,2731,233842,M,36-45,Financial Analyst,Chicago,Electronics,7792
+17318,2732,127742,M,46-50,Pilot,Chicago,Electronics,19601
+17328,2735,008542,M,26-35,Financial Analyst,New York,Clothing,12734
+17377,2744,023242,M,18-25,Pilot,Chicago,Clothing,3322
+56585,2746,120642,M,51-55,Civil Engineer,Chicago,Sports & Outdoors,8762
+17390,2747,108542,F,18-25,Electrician,Los Angeles,Sports & Outdoors,8880
+17409,2750,265742,F,26-35,Lawyer,Los Angeles,Sports & Outdoors,7056
+17445,2753,321642,F,51-55,Veterinarian,Los Angeles,Automotive,8073
+17473,2754,190142,M,51-55,Photographer,New York,Groceries,5294
+17493,2760,298842,M,55+,Software Developer,Chicago,Clothing,13260
+17511,2762,273742,M,51-55,Dentist,Chicago,Electronics,19378
+17512,2763,309942,F,18-25,Electrician,New York,Sports & Outdoors,3537
+17513,2764,296342,M,26-35,Financial Analyst,Los Angeles,Automotive,9842
+17536,2768,028042,M,26-35,Pilot,New York,Electronics,12023
+17550,2770,179042,M,36-45,Teacher,Chicago,Office Supplies,1571
+17636,2779,287842,M,36-45,Financial Analyst,Los Angeles,Automotive,8111
+17649,2781,237842,M,36-45,Electrician,Chicago,Sports & Outdoors,5220
+17667,2784,322142,M,51-55,Veterinarian,Chicago,Electronics,11909
+17680,2785,257542,M,55+,Pharmacist,Chicago,Sports & Outdoors,5188
+17709,2790,047742,M,26-35,Veterinarian,New York,Furniture,16261
+17751,2794,176042,M,26-35,Graphic Designer,Los Angeles,Automotive,9881
+17791,2800,312842,F,18-25,Electrician,Chicago,Furniture,8330
+17882,2817,154242,M,36-45,Photographer,Chicago,Automotive,9739
+17947,2825,072742,F,26-35,Veterinarian,Los Angeles,Automotive,8063
+17968,2832,291442,M,26-35,Pilot,Los Angeles,Sports & Outdoors,8856
+17972,2833,251842,M,26-35,Lawyer,Chicago,Electronics,3823
+17978,2834,252742,M,36-45,Teacher,Chicago,Automotive,8019
+17979,2835,113542,M,36-45,Veterinarian,Los Angeles,Automotive,9811
+18041,2845,196342,M,26-35,Electrician,Chicago,Clothing,6635
+18082,2852,358342,M,26-35,Photographer,Chicago,Office Supplies,4455
+18111,2857,124242,M,26-35,Software Developer,Los Angeles,Office Supplies,4486
+18161,2863,214142,F,26-35,Graphic Designer,Los Angeles,Automotive,9973
+18210,2874,272942,F,36-45,Veterinarian,Los Angeles,Sports & Outdoors,5285
+95976,2875,266142,M,26-35,Graphic Designer,Los Angeles,Sports & Outdoors,6946
+18225,2877,118342,M,36-45,Teacher,Chicago,Clothing,6910
+18230,2878,135242,F,51-55,Veterinarian,New York,Home & Kitchen,2126
+18315,2888,033542,M,26-35,Civil Engineer,Los Angeles,Sports & Outdoors,5280
+18419,2903,019942,M,26-35,Dentist,Los Angeles,Electronics,15503
+18534,2913,157942,F,36-45,Veterinarian,Los Angeles,Automotive,7759
+18572,2918,146442,M,26-35,Photographer,Los Angeles,Automotive,6055
+18594,2920,233642,M,26-35,Graphic Designer,New York,Electronics,12036
+18612,2927,207342,M,26-35,Photographer,New York,Sports & Outdoors,1719
+18676,2934,125642,F,36-45,Veterinarian,Los Angeles,Sports & Outdoors,7034
+18704,2937,231942,F,18-25,Electrician,New York,Office Supplies,3140
+18709,2939,087342,F,26-35,Lawyer,Los Angeles,Sports & Outdoors,5156
+18731,2942,291942,F,51-55,Teacher,Chicago,Automotive,9750
+18766,2947,052542,F,26-35,Software Developer,New York,Automotive,9796
+18786,2953,148742,M,26-35,Veterinarian,Chicago,Automotive,8091
+18803,2961,211142,M,51-55,Pilot,Chicago,Sports & Outdoors,8671
+18842,2967,252342,M,26-35,Software Developer,New York,Jewelry & Accessories,14281
+18868,2968,076042,F,18-25,Software Developer,New York,Automotive,9898
+18892,2975,094842,M,36-45,Journalist,Chicago,Home & Kitchen,2811
+18916,2983,074442,M,18-25,Electrician,Chicago,Electronics,19096
+18962,2990,348642,M,36-45,Photographer,Los Angeles,Sports & Outdoors,7164
+19011,2996,036342,M,18-25,Software Developer,Los Angeles,Sports & Outdoors,5274
+19055,3004,011442,F,18-25,Electrician,New York,Sports & Outdoors,5240
+19069,3006,251542,M,18-25,Electrician,Los Angeles,Office Supplies,2970
+96895,3016,252542,M,18-25,Photographer,New York,Automotive,9776
+58413,3021,302342,F,46-50,Lawyer,Chicago,Automotive,6171
+19180,3023,337642,F,26-35,Financial Analyst,Chicago,Groceries,10943
+19248,3030,221842,M,36-45,Teacher,New York,Electronics,8184
+19249,3031,050142,M,18-25,Electrician,New York,Sports & Outdoors,7033
+19306,3034,003942,F,18-25,Teacher,Chicago,Sports & Outdoors,7085
+19317,3037,035242,F,26-35,Graphic Designer,New York,Automotive,7891
+19318,3038,351042,F,36-45,Graphic Designer,New York,Sports & Outdoors,1720
+19343,3043,340642,M,18-25,Graphic Designer,Los Angeles,Sports & Outdoors,5337
+19422,3055,049942,F,26-35,Nurse,Chicago,Office Supplies,1724
+19445,3057,348242,F,26-35,Photographer,Los Angeles,Automotive,8122
+19464,3060,259942,F,36-45,Teacher,Chicago,Furniture,12272
+19469,3062,165942,M,18-25,Electrician,Chicago,Automotive,4259
+19470,3063,300042,M,18-25,Electrician,Chicago,Furniture,12242
+19475,3065,083442,F,18-25,Electrician,New York,Automotive,9783
+19515,3069,074242,M,18-25,Electrician,Chicago,Sports & Outdoors,7091
+19528,3072,042242,M,51-55,Teacher,Los Angeles,Sports & Outdoors,3633
+19594,3081,118442,M,26-35,Financial Analyst,Los Angeles,Electronics,19551
+19629,3084,349442,M,26-35,Dentist,Los Angeles,Health & Beauty,12248
+19661,3089,130742,M,46-50,Dentist,Chicago,Electronics,15349
+19667,3091,120842,F,26-35,Software Developer,Chicago,Automotive,8064
+19681,3096,220642,F,46-50,Nurse,Chicago,Automotive,9759
+19689,3097,221942,F,26-35,Data Scientist,Los Angeles,Electronics,4484
+19696,3099,328442,M,26-35,Pilot,Chicago,Sports & Outdoors,5161
+58964,3103,077842,M,26-35,Veterinarian,Chicago,Sports & Outdoors,3721
+19711,3104,086842,M,18-25,Pilot,Chicago,Baby Products,11128
+19771,3113,004642,M,26-35,Mechanical Engineer,Los Angeles,Automotive,5988
+19773,3114,112242,M,18-25,Data Scientist,Chicago,Sports & Outdoors,5273
+19824,3122,294842,F,26-35,Financial Analyst,Chicago,Automotive,2203
+19853,3128,172542,M,18-25,Graphic Designer,Los Angeles,Sports & Outdoors,1894
+19868,3129,355642,M,26-35,Financial Analyst,Los Angeles,Furniture,16821
+19902,3131,350042,F,26-35,Graphic Designer,Chicago,Health & Beauty,19988
+19906,3132,248442,M,36-45,Financial Analyst,Chicago,Groceries,10713
+19907,3134,180042,M,18-25,Electrician,New York,Office Supplies,1646
+19950,3143,033342,F,51-55,Dentist,Chicago,Sports & Outdoors,6968
+19957,3145,215942,M,18-25,Electrician,New York,Automotive,9799
+19975,3149,301542,M,18-25,Electrician,Chicago,Furniture,12562
+20009,3158,294042,M,26-35,Lawyer,Los Angeles,Automotive,8037
+20060,3168,263442,F,36-45,Data Scientist,Chicago,Furniture,4145
+20070,3171,110442,F,51-55,Nurse,Los Angeles,Toys & Games,16287
+20079,3173,183042,M,26-35,Photographer,Chicago,Musical Instruments,12851
+20092,3178,199342,F,36-45,Data Scientist,New York,Clothing,9552
+20118,3182,267142,M,26-35,Photographer,New York,Automotive,7971
+59394,3186,354742,M,51-55,Teacher,New York,Automotive,6088
+20215,3197,144542,F,18-25,Civil Engineer,New York,Automotive,9887
+20229,3200,104542,F,26-35,Teacher,Los Angeles,Automotive,6120
+20304,3209,187842,M,26-35,Software Developer,Chicago,Electronics,12001
+20309,3211,313142,M,51-55,Dentist,Los Angeles,Automotive,9815
+20315,3213,303842,F,26-35,Teacher,Chicago,Sports & Outdoors,8837
+59586,3214,116042,F,55+,Financial Analyst,New York,Automotive,9796
+20351,3222,106942,M,36-45,Financial Analyst,Chicago,Automotive,6111
+20353,3223,354142,M,26-35,Veterinarian,New York,Health & Beauty,16174
+20355,3224,100742,F,26-35,Civil Engineer,New York,Sports & Outdoors,6933
+20422,3229,084242,F,55+,Teacher,Los Angeles,Automotive,9950
+20432,3231,252442,M,26-35,Financial Analyst,New York,Automotive,9981
+20450,3238,178342,M,36-45,Financial Analyst,Chicago,Automotive,10062
+20480,3246,324442,F,36-45,Teacher,Los Angeles,Office Supplies,1633
+20496,3250,357842,M,26-35,Electrician,Los Angeles,Sports & Outdoors,5252
+20506,3253,323542,F,36-45,Electrician,Los Angeles,Automotive,9776
+20517,3258,101342,M,46-50,Marketing Manager,Chicago,Health & Beauty,11946
+20548,3261,296742,M,46-50,Veterinarian,Los Angeles,Automotive,4123
+20671,3279,046042,M,46-50,Lawyer,Chicago,Sports & Outdoors,3764
+20675,3280,312342,M,26-35,Financial Analyst,Los Angeles,Automotive,10036
+60014,3287,272042,M,55+,Pharmacist,Chicago,Automotive,8090
+20784,3294,119742,M,18-25,Electrician,Los Angeles,Sports & Outdoors,3510
+20800,3299,216842,F,26-35,Electrician,Los Angeles,Automotive,9926
+20813,3300,357642,M,36-45,Data Scientist,Los Angeles,Sports & Outdoors,8664
+20854,3306,110142,M,46-50,Civil Engineer,Chicago,Toys & Games,16821
+20856,3308,198242,F,18-25,Veterinarian,Los Angeles,Clothing,10028
+20984,3314,002442,M,26-35,Financial Analyst,Chicago,Automotive,5821
+21007,3317,221642,M,26-35,Electrician,New York,Sports & Outdoors,5366
+21014,3319,357242,F,55+,Pharmacist,Los Angeles,Sports & Outdoors,3517
+21017,3320,242142,M,26-35,Teacher,Los Angeles,Sports & Outdoors,8779
+21052,3321,326642,M,36-45,Teacher,New York,Automotive,6117
+60346,3325,290042,F,36-45,Civil Engineer,Chicago,Automotive,2260
+21073,3327,244142,M,18-25,Photographer,Los Angeles,Electronics,3811
+21088,3328,255342,M,55+,Social Worker,Chicago,Automotive,7883
+21118,3333,208842,M,18-25,Dentist,Chicago,Office Supplies,4558
+21156,3337,289842,M,26-35,Electrician,New York,Electronics,15350
+21158,3338,303242,M,46-50,Dentist,Chicago,Sports & Outdoors,5364
+21201,3352,280642,M,36-45,Software Developer,Chicago,Office Supplies,3045
+21204,3353,173742,M,36-45,Pilot,New York,Electronics,15399
+21217,3356,180442,M,36-45,Financial Analyst,Chicago,Office Supplies,3117
+21233,3358,282242,F,26-35,Teacher,Los Angeles,Sports & Outdoors,7016
+21258,3362,231242,F,26-35,Software Developer,Chicago,Furniture,4546
+21283,3367,200742,M,51-55,Dentist,New York,Garden & Outdoors,592
+21397,3384,001942,M,36-45,Financial Analyst,Chicago,Sports & Outdoors,7074
+21404,3385,352142,F,26-35,Chef,Chicago,Electronics,11879
+21512,3395,016842,M,26-35,Financial Analyst,New York,Electronics,15733
+21565,3402,245942,M,36-45,Veterinarian,Los Angeles,Musical Instruments,21149
+21579,3404,241642,M,26-35,Architect,New York,Electronics,15559
+21580,3405,147842,M,36-45,Civil Engineer,Los Angeles,Automotive,9982
+21585,3410,331342,M,36-45,Teacher,Los Angeles,Automotive,10076
+21641,3414,048942,M,26-35,Pilot,Chicago,Electronics,8153
+21679,3417,227842,F,18-25,Graphic Designer,Chicago,Clothing,6564
+21695,3420,195242,F,26-35,Financial Analyst,New York,Automotive,9972
+61001,3421,276142,M,46-50,Financial Analyst,Los Angeles,Pet Supplies,1382
+21798,3433,127942,M,18-25,Photographer,New York,Electronics,11832
+21802,3434,088042,M,18-25,Electrician,Los Angeles,Electronics,11775
+21823,3436,236442,M,36-45,Software Developer,Chicago,Groceries,8109
+21869,3445,336742,F,36-45,Veterinarian,Chicago,Pet Supplies,1756
+21910,3456,173042,M,26-35,Pilot,Chicago,Garden & Outdoors,942
+21949,3464,232342,F,26-35,Civil Engineer,Los Angeles,Office Supplies,4473
+21977,3469,119642,M,46-50,Pilot,Los Angeles,Electronics,19323
+22004,3471,102242,M,18-25,Electrician,New York,Automotive,6131
+22159,3486,237142,F,18-25,Software Developer,New York,Sports & Outdoors,5387
+22174,3490,331242,M,26-35,Software Developer,Chicago,Pet Supplies,1767
+22223,3493,016442,M,26-35,Pilot,Chicago,Clothing,9664
+22234,3496,042842,M,36-45,Data Scientist,Chicago,Sports & Outdoors,3549
+22243,3499,270542,M,26-35,Nurse,New York,Electronics,15404
+22262,3501,171442,F,36-45,Financial Analyst,Chicago,Automotive,9952
+22289,3504,091842,M,18-25,Financial Analyst,Los Angeles,Automotive,8015
+22299,3507,008042,M,26-35,Software Developer,New York,Health & Beauty,20133
+22363,3512,070542,M,18-25,Pilot,New York,Groceries,10990
+22406,3518,283342,F,18-25,Financial Analyst,New York,Sports & Outdoors,8643
+22544,3533,097842,M,26-35,Graphic Designer,New York,Sports & Outdoors,1833
+22565,3538,015642,M,36-45,Software Developer,Chicago,Automotive,7828
+22631,3545,145542,M,36-45,Photographer,Los Angeles,Sports & Outdoors,8665
+22723,3559,230742,M,18-25,Electrician,Chicago,Sports & Outdoors,7115
+22725,3560,148942,F,26-35,Marketing Manager,Los Angeles,Automotive,5862
+22764,3565,001542,M,26-35,Research Scientist,Chicago,Electronics,11519
+22770,3567,069242,M,26-35,Civil Engineer,Chicago,Automotive,6106
+22807,3576,344142,M,51-55,Financial Analyst,Los Angeles,Food & Beverages,3087
+22883,3586,279242,M,36-45,Veterinarian,New York,Sports & Outdoors,1978
+62181,3587,356042,M,36-45,Nurse,Chicago,Electronics,15174
+22958,3593,209142,F,26-35,Chef,Chicago,Sports & Outdoors,7097
+22965,3596,032542,F,36-45,Electrician,New York,Automotive,9882
+22967,3597,184842,M,26-35,Pilot,Chicago,Sports & Outdoors,3514
+22969,3598,108342,M,55+,Teacher,New York,Electronics,4378
+23012,3605,337942,M,18-25,Photographer,New York,Sports & Outdoors,7015
+23031,3610,017542,M,18-25,Marketing Manager,Los Angeles,Sports & Outdoors,5148
+23351,3644,009542,F,26-35,Journalist,New York,Automotive,9911
+23387,3650,061142,M,26-35,Software Developer,New York,Automotive,7787
+23437,3653,352842,M,18-25,Lawyer,Chicago,Clothing,16357
+23455,3656,359142,F,46-50,Data Scientist,Chicago,Furniture,12292
+23457,3658,112642,F,26-35,Financial Analyst,Chicago,Electronics,19187
+23475,3662,246442,M,36-45,Dentist,Chicago,Musical Instruments,20816
+23514,3670,209542,M,46-50,Civil Engineer,Chicago,Sports & Outdoors,5464
+23601,3680,130842,F,26-35,Teacher,Chicago,Sports & Outdoors,7123
+23692,3687,101642,F,51-55,Teacher,Chicago,Pet Supplies,699
+23708,3688,276642,M,18-25,Marketing Manager,Los Angeles,Automotive,9809
+23806,3696,363242,M,36-45,Financial Analyst,Chicago,Electronics,3869
+23836,3701,230842,M,36-45,Teacher,Los Angeles,Automotive,8021
+23890,3708,030642,M,55+,Financial Analyst,Chicago,Automotive,4008
+23922,3711,076542,M,36-45,Software Developer,Chicago,Home & Kitchen,716
+23925,3712,154042,M,26-35,Pilot,Chicago,Electronics,11745
+23928,3713,279542,F,26-35,Financial Analyst,Los Angeles,Automotive,5933
+23946,3715,324742,M,18-25,Data Scientist,Los Angeles,Clothing,12946
+23984,3718,211442,M,51-55,Pilot,Chicago,Automotive,7797
+24020,3724,216742,M,36-45,Marketing Manager,Los Angeles,Sports & Outdoors,7154
+24046,3725,219942,M,18-25,Electrician,Chicago,Health & Beauty,12710
+24120,3733,030042,M,18-25,Electrician,Chicago,Automotive,7810
+24127,3736,030842,M,36-45,Teacher,Chicago,Electronics,15406
+24129,3737,223042,M,26-35,Civil Engineer,Chicago,Electronics,8222
+24137,3740,182642,M,18-25,Data Scientist,New York,Clothing,13059
+24168,3747,189642,M,46-50,Pharmacist,Chicago,Automotive,8078
+24176,3749,134342,F,26-35,Software Developer,Chicago,Sports & Outdoors,6968
+24380,3773,010242,M,36-45,Marketing Manager,Los Angeles,Sports & Outdoors,7034
+24400,3775,247042,M,36-45,Photographer,Los Angeles,Sports & Outdoors,3671
+24411,3778,352642,M,26-35,Software Developer,Los Angeles,Electronics,4318
+24472,3781,015942,F,55+,Journalist,Chicago,Health & Beauty,16398
+24481,3785,337842,F,26-35,Veterinarian,Chicago,Sports & Outdoors,5460
+24484,3788,184142,F,18-25,Software Developer,Chicago,Automotive,9957
+24494,3790,083842,F,26-35,Pilot,New York,Sports & Outdoors,8566
+24596,3807,244742,F,36-45,Social Worker,Los Angeles,Office Supplies,7362
+102538,3826,307442,M,26-35,Teacher,New York,Sports & Outdoors,3456
+24834,3827,355042,M,51-55,Graphic Designer,Chicago,Food & Beverages,3117
+24900,3833,289242,M,26-35,Teacher,Los Angeles,Electronics,11833
+24934,3836,130942,F,51-55,Architect,Los Angeles,Sports & Outdoors,5255
+24970,3841,046142,M,46-50,Research Scientist,New York,Electronics,15585
+25033,3844,359942,M,18-25,Electrician,Chicago,Office Supplies,6138
+25095,3854,332442,M,26-35,Civil Engineer,Chicago,Furniture,8341
+25097,3855,354942,M,26-35,Pilot,Chicago,Automotive,7875
+25116,3859,052042,M,26-35,Software Developer,Chicago,Electronics,11554
+25141,3861,350342,M,18-25,Electrician,Chicago,Electronics,12040
+64373,3863,179542,M,26-35,Software Developer,Chicago,Office Supplies,6074
+25167,3871,270842,M,18-25,Electrician,Chicago,Sports & Outdoors,5451
+25177,3874,152942,M,26-35,Financial Analyst,New York,Sports & Outdoors,8806
+64470,3883,286442,M,51-55,Dentist,Chicago,Automotive,6122
+25221,3884,038342,M,18-25,Electrician,New York,Clothing,6874
+25326,3893,347842,M,26-35,Marketing Manager,Chicago,Sports & Outdoors,5181
+25334,3896,226842,M,36-45,Software Developer,Los Angeles,Office Supplies,3009
+25342,3897,150042,M,55+,Pilot,Chicago,Automotive,3954
+25389,3905,016742,M,26-35,Pilot,Chicago,Electronics,11393
+25392,3908,124542,M,26-35,Software Developer,Los Angeles,Office Supplies,6002
+103162,3911,341242,M,18-25,Software Developer,New York,Toys & Games,20271
+25413,3912,150442,M,26-35,Electrician,New York,Sports & Outdoors,7189
+25506,3929,346042,M,26-35,Data Scientist,Los Angeles,Health & Beauty,12720
+25621,3944,196142,F,36-45,Dentist,Chicago,Groceries,8089
+25727,3960,342742,F,36-45,Civil Engineer,Chicago,Automotive,9729
+25740,3962,319642,F,55+,Software Developer,New York,Health & Beauty,12268
+25748,3963,275642,M,51-55,Veterinarian,New York,Automotive,8027
+25769,3965,229842,M,18-25,Journalist,Chicago,Sports & Outdoors,7171
+25785,3966,078642,M,26-35,Software Developer,Chicago,Home & Kitchen,1378
+25832,3973,277842,M,26-35,Financial Analyst,New York,Electronics,15506
+25875,3983,270042,M,26-35,Software Developer,Los Angeles,Automotive,2112
+25889,3985,137142,M,46-50,Dentist,Chicago,Garden & Outdoors,757
+65092,3986,194642,M,26-35,Financial Analyst,Chicago,Electronics,15302
+25901,3987,059842,F,18-25,Electrician,Chicago,Sports & Outdoors,3658
+25905,3988,165842,F,26-35,Civil Engineer,Los Angeles,Baby Products,10978
+25987,3997,357042,M,36-45,Pilot,Los Angeles,Sports & Outdoors,7003
+26015,3999,315742,M,36-45,Pilot,Los Angeles,Sports & Outdoors,5163
+65262,4003,052742,M,55+,Pharmacist,Chicago,Furniture,8105
+26114,4008,021142,M,18-25,Teacher,Los Angeles,Sports & Outdoors,5278
+26137,4013,020342,M,26-35,Teacher,Chicago,Electronics,15732
+26143,4014,043642,M,26-35,Software Developer,Chicago,Sports & Outdoors,8659
+26273,4028,263142,M,26-35,Electrician,New York,Sports & Outdoors,6883
+26305,4029,087542,F,55+,Nurse,Chicago,Sports & Outdoors,5176
+26379,4041,024942,M,18-25,Nurse,Los Angeles,Sports & Outdoors,5416
+26448,4045,163542,M,55+,Pharmacist,Chicago,Clothing,6843
+26472,4049,326242,M,46-50,Journalist,New York,Clothing,9891
+26620,4063,355742,F,36-45,Teacher,Chicago,Groceries,8363
+26661,4066,153842,M,26-35,Software Developer,Chicago,Automotive,6076
+26669,4069,115342,M,36-45,Lawyer,Chicago,Sports & Outdoors,8701
+26672,4071,119542,M,26-35,Pilot,Chicago,Automotive,5895
+26688,4076,303642,M,26-35,Pilot,New York,Automotive,9970
+26794,4085,347642,F,26-35,Marketing Manager,New York,Electronics,15753
+26903,4097,305042,M,26-35,Financial Analyst,Chicago,Office Supplies,3071
+26905,4098,352242,M,36-45,Financial Analyst,Chicago,Electronics,11869
+26931,4105,036142,M,51-55,Financial Analyst,Chicago,Sports & Outdoors,5202
+26933,4106,338042,M,26-35,Dentist,Chicago,Sports & Outdoors,7148
+26943,4108,208042,M,36-45,Pilot,Chicago,Automotive,5987
+26949,4110,349842,F,46-50,Financial Analyst,Chicago,Sports & Outdoors,8748
+26951,4112,356442,M,46-50,Research Scientist,Los Angeles,Food & Beverages,2380
+27012,4117,067942,M,18-25,Electrician,Los Angeles,Sports & Outdoors,5471
+27023,4118,351742,M,26-35,Nurse,Chicago,Groceries,8001
+27070,4127,007242,M,51-55,Pilot,Los Angeles,Automotive,10020
+27075,4128,232642,M,36-45,Marketing Manager,Chicago,Automotive,6142
+27109,4134,321442,F,46-50,Photographer,Chicago,Garden & Outdoors,744
+27189,4147,360642,F,51-55,Financial Analyst,Chicago,Health & Beauty,16197
+27213,4152,298742,M,26-35,Civil Engineer,Chicago,Baby Products,10961
+27249,4157,258642,M,51-55,Research Scientist,Los Angeles,Office Supplies,3155
+27332,4174,101442,F,36-45,Nurse,Chicago,Clothing,12966
+27387,4186,160642,M,26-35,Financial Analyst,Los Angeles,Electronics,8018
+27412,4189,130442,M,36-45,Civil Engineer,Chicago,Groceries,10837
+105131,4192,155142,M,36-45,Pilot,Chicago,Electronics,15433
+27429,4194,068442,M,18-25,Electrician,Chicago,Food & Beverages,3134
+27443,4199,001042,F,26-35,Chef,Chicago,Electronics,7774
+27569,4225,029342,F,26-35,Nurse,New York,Automotive,7957
+27661,4237,289342,M,26-35,Civil Engineer,Chicago,Sports & Outdoors,5372
+27665,4238,286742,M,36-45,Dentist,Los Angeles,Electronics,11510
+27711,4242,032142,M,51-55,Financial Analyst,Los Angeles,Sports & Outdoors,3594
+27719,4243,220942,M,55+,Financial Analyst,Chicago,Food & Beverages,3052
+27728,4245,151742,M,51-55,Photographer,Chicago,Automotive,3953
+27757,4252,174242,F,36-45,Nurse,Los Angeles,Musical Instruments,17187
+27835,4264,034142,M,46-50,Teacher,Chicago,Automotive,9903
+27845,4266,220042,M,55+,Pharmacist,Chicago,Sports & Outdoors,5325
+27878,4271,176242,M,36-45,Financial Analyst,Los Angeles,Automotive,9806
+28035,4281,355942,M,55+,Pharmacist,New York,Automotive,9719
+28093,4288,193442,F,26-35,Chef,Chicago,Automotive,7964
+28113,4292,284042,M,26-35,Software Developer,Chicago,Automotive,8095
+28124,4295,135142,M,18-25,Research Scientist,Chicago,Garden & Outdoors,592
+28125,4296,351642,M,55+,Marketing Manager,Chicago,Automotive,5960
+28152,4303,041242,M,26-35,Graphic Designer,Los Angeles,Automotive,7756
+28200,4306,331842,M,46-50,Financial Analyst,Chicago,Furniture,20295
+28271,4315,304642,M,18-25,Electrician,Chicago,Clothing,6681
+28294,4320,200842,M,26-35,Data Scientist,Chicago,Automotive,5873
+28300,4322,322042,F,51-55,Marketing Manager,Los Angeles,Sports & Outdoors,8689
+28371,4335,233342,M,36-45,Software Developer,Los Angeles,Electronics,15698
+28411,4340,028142,F,26-35,Pilot,Chicago,Sports & Outdoors,3617
+28412,4341,248542,M,36-45,Pilot,Chicago,Automotive,7837
+28428,4343,213742,M,26-35,Photographer,Chicago,Automotive,9706
+28552,4353,352742,M,26-35,Financial Analyst,New York,Electronics,15455
+28599,4360,075642,F,26-35,Chef,Los Angeles,Home & Kitchen,1488
+28621,4363,019042,M,36-45,Civil Engineer,Chicago,Sports & Outdoors,5199
+67702,4365,353142,F,51-55,Dentist,Chicago,Sports & Outdoors,1826
+28645,4370,041842,M,26-35,Dentist,Chicago,Health & Beauty,12338
+28663,4375,214342,F,26-35,Data Scientist,Los Angeles,Sports & Outdoors,8699
+67849,4383,310142,F,18-25,Electrician,Los Angeles,Sports & Outdoors,7141
+28820,4388,260142,M,46-50,Nurse,Los Angeles,Sports & Outdoors,6939
+67970,4394,070742,M,26-35,Electrician,Chicago,Sports & Outdoors,5245
+67973,4396,244342,M,18-25,Teacher,Chicago,Office Supplies,1511
+28866,4399,096842,F,18-25,Electrician,Chicago,Groceries,5670
+28868,4400,230342,F,18-25,Electrician,Chicago,Sports & Outdoors,5175
+28870,4401,281042,M,18-25,Electrician,New York,Sports & Outdoors,8645
+28882,4404,046242,M,26-35,Teacher,Los Angeles,Automotive,10020
+29044,4425,001742,M,36-45,Financial Analyst,Los Angeles,Automotive,6181
+29079,4426,339042,M,46-50,Pilot,Chicago,Sports & Outdoors,8585
+29121,4434,293042,F,36-45,Financial Analyst,New York,Automotive,6066
+29147,4440,177642,M,36-45,Teacher,Chicago,Automotive,7802
+29162,4446,039242,M,18-25,Research Scientist,Los Angeles,Electronics,3979
+29379,4465,054942,M,18-25,Electrician,New York,Sports & Outdoors,8903
+29476,4479,196642,M,51-55,Pharmacist,Chicago,Automotive,6020
+29637,4499,163442,M,26-35,Marketing Manager,Chicago,Health & Beauty,12155
+29661,4504,341942,F,26-35,Software Developer,Chicago,Office Supplies,7518
+29663,4505,002242,M,51-55,Financial Analyst,Chicago,Health & Beauty,16525
+146332,4527,233142,M,18-25,Software Developer,Chicago,Electronics,7876
+29875,4529,257842,M,36-45,Marketing Manager,Chicago,Office Supplies,6078
+69086,4545,289042,M,26-35,Dentist,Chicago,Automotive,8069
+69097,4550,208342,M,18-25,Dentist,Chicago,Electronics,15161
+29984,4551,333542,M,18-25,Photographer,Los Angeles,Automotive,8020
+29989,4552,032942,M,26-35,Software Developer,Chicago,Musical Instruments,12928
+69113,4554,197542,F,26-35,Chef,Chicago,Sports & Outdoors,3473
+30014,4560,149142,M,26-35,Software Developer,Chicago,Office Supplies,4569
+30034,4562,244942,M,36-45,Mechanical Engineer,New York,Office Supplies,3132
+30079,4574,165742,M,26-35,Electrician,New York,Automotive,5996
+30149,4581,048242,M,26-35,Teacher,Chicago,Automotive,6006
+30156,4583,156142,M,51-55,Teacher,Chicago,Sports & Outdoors,5195
+30183,4591,210342,M,26-35,Lawyer,New York,Groceries,13574
+30226,4596,219742,F,18-25,Electrician,Los Angeles,Health & Beauty,8249
+108059,4614,242042,F,46-50,Teacher,Los Angeles,Automotive,7838
+108072,4616,184642,M,26-35,Veterinarian,Chicago,Automotive,9771
+30377,4629,164642,F,18-25,Electrician,Chicago,Sports & Outdoors,7067
+30391,4635,250542,M,18-25,Electrician,Los Angeles,Home & Kitchen,1498
+30442,4645,093042,F,51-55,Marketing Manager,Chicago,Furniture,20604
+30484,4651,056842,F,46-50,Software Developer,Los Angeles,Toys & Games,12842
+30571,4660,288342,F,18-25,Electrician,Los Angeles,Automotive,5976
+30605,4665,223842,M,36-45,Graphic Designer,Chicago,Clothing,12947
+30607,4666,254842,M,36-45,Teacher,New York,Sports & Outdoors,3657
+30626,4670,265142,M,36-45,Data Scientist,Chicago,Groceries,10941
+30642,4673,279642,M,36-45,Dentist,Los Angeles,Toys & Games,16266
+30686,4679,240442,M,55+,Pharmacist,Chicago,Health & Beauty,8570
+30771,4691,075742,F,46-50,Pilot,Los Angeles,Automotive,7869
+30774,4692,249042,F,26-35,Financial Analyst,Chicago,Toys & Games,16719
+30776,4694,015442,M,55+,Financial Analyst,Chicago,Automotive,6141
+30862,4713,223242,M,26-35,Pilot,Chicago,Sports & Outdoors,8749
+30865,4715,128342,M,26-35,Graphic Designer,Los Angeles,Sports & Outdoors,1980
+30952,4728,004142,M,26-35,Social Worker,Los Angeles,Automotive,3920
+30990,4731,177542,M,26-35,Pilot,Los Angeles,Electronics,19080
+30992,4732,121042,M,26-35,Civil Engineer,Los Angeles,Musical Instruments,12476
+31040,4735,075542,M,46-50,Nurse,Chicago,Automotive,7950
+31054,4738,155742,M,55+,Teacher,Chicago,Automotive,6093
+31065,4740,006842,F,26-35,Nurse,Chicago,Sports & Outdoors,7108
+31126,4751,228842,M,51-55,Lawyer,Chicago,Automotive,9898
+31135,4757,205142,M,36-45,Pilot,Chicago,Automotive,9972
+108919,4758,237742,F,55+,Pharmacist,Chicago,Automotive,7816
+31143,4760,024742,M,36-45,Pilot,Chicago,Automotive,7806
+31169,4768,157242,M,26-35,Electrician,New York,Furniture,12454
+31173,4769,352542,M,26-35,Teacher,Chicago,Electronics,3861
+31206,4778,131342,M,26-35,Software Developer,Chicago,Sports & Outdoors,7160
+31252,4786,255742,M,46-50,Marketing Manager,Los Angeles,Groceries,10844
+31334,4795,189542,M,46-50,Dentist,Chicago,Automotive,7786
+31416,4806,342142,M,26-35,Pilot,Chicago,Office Supplies,3134
+31424,4808,283842,M,36-45,Software Developer,New York,Automotive,5922
+31539,4820,322542,M,51-55,Journalist,Chicago,Automotive,4238
+31643,4837,069942,M,26-35,Data Scientist,Los Angeles,Health & Beauty,4681
+31676,4845,002842,F,26-35,Teacher,Los Angeles,Baby Products,18600
+31749,4865,084742,F,36-45,Civil Engineer,Chicago,Sports & Outdoors,6964
+31760,4866,089242,M,55+,Photographer,Chicago,Clothing,13221
+31997,4903,227742,M,36-45,Photographer,Chicago,Sports & Outdoors,8730
+32019,4906,349342,M,51-55,Pilot,Los Angeles,Automotive,7830
+32046,4909,348842,F,36-45,Photographer,Los Angeles,Electronics,8222
+32056,4914,021042,F,26-35,Teacher,Los Angeles,Automotive,10004
+32062,4916,099842,M,18-25,Veterinarian,Chicago,Sports & Outdoors,7024
+32102,4923,127442,M,46-50,Research Scientist,Chicago,Electronics,11818
+32107,4927,346342,M,46-50,Software Developer,Los Angeles,Electronics,11820
+32113,4928,339342,F,26-35,Nurse,New York,Electronics,11552
+32161,4934,290342,F,26-35,Software Developer,New York,Automotive,2027
+32174,4935,153442,M,36-45,Pilot,Chicago,Automotive,8097
+32216,4943,336342,F,51-55,Software Developer,Chicago,Pet Supplies,1395
+32357,4960,016542,M,55+,Teacher,New York,Electronics,7962
+32405,4970,112842,F,26-35,Photographer,Chicago,Automotive,10076
+32509,4984,298242,M,36-45,Software Developer,New York,Automotive,4190
+110263,4988,061842,M,26-35,Pilot,New York,Sports & Outdoors,1902
+32529,4990,151342,F,26-35,Electrician,Los Angeles,Toys & Games,20692
+32530,4991,273542,F,55+,Civil Engineer,Chicago,Automotive,6144
+32583,5001,151142,F,26-35,Graphic Designer,Los Angeles,Health & Beauty,8464
+32620,5008,050942,M,26-35,Veterinarian,Los Angeles,Electronics,15851
+32648,5013,178542,M,18-25,Electrician,Chicago,Automotive,6054
+32716,5023,348442,M,36-45,Veterinarian,New York,Groceries,2863
+32785,5034,023042,F,26-35,Lawyer,Chicago,Sports & Outdoors,7189
+32828,5040,181642,M,46-50,Photographer,Chicago,Office Supplies,4593
+32856,5045,303042,M,36-45,Software Developer,Los Angeles,Sports & Outdoors,5336
+32972,5059,095242,M,46-50,Dentist,Chicago,Home & Kitchen,2755
+33199,5095,205042,F,36-45,Teacher,Chicago,Sports & Outdoors,8614
+33201,5096,276542,M,26-35,Journalist,Los Angeles,Automotive,2099
+33211,5097,117242,M,55+,Dentist,Chicago,Automotive,9892
+33265,5101,345942,M,26-35,Software Developer,Los Angeles,Automotive,2061
+33406,5115,108942,M,55+,Photographer,New York,Automotive,8128
+33436,5123,301642,M,51-55,Photographer,Chicago,Sports & Outdoors,5480
+33482,5135,137242,M,36-45,Financial Analyst,Chicago,Sports & Outdoors,8603
+33496,5137,254442,M,18-25,Research Scientist,Chicago,Electronics,18993
+33514,5140,089442,M,26-35,Marketing Manager,Los Angeles,Automotive,5897
+33543,5143,353242,M,18-25,Electrician,Chicago,Sports & Outdoors,5332
+33553,5145,268542,M,36-45,Financial Analyst,Chicago,Sports & Outdoors,5412
+33566,5151,072842,M,18-25,Social Worker,Chicago,Sports & Outdoors,2032
+72602,5152,284742,F,26-35,Electrician,Chicago,Sports & Outdoors,5298
+33669,5166,188442,M,51-55,Marketing Manager,Los Angeles,Sports & Outdoors,8853
+33755,5182,127042,F,36-45,Financial Analyst,Los Angeles,Home & Kitchen,2087
+33819,5197,297942,F,55+,Nurse,Chicago,Automotive,9908
+33839,5201,218342,M,51-55,Financial Analyst,Chicago,Sports & Outdoors,3717
+33842,5203,067842,F,46-50,Marketing Manager,Los Angeles,Health & Beauty,12509
+33882,5215,088142,F,55+,Marketing Manager,Chicago,Clothing,10147
+33888,5218,063342,M,18-25,Software Developer,Chicago,Electronics,15364
+33889,5219,015342,M,18-25,Electrician,Los Angeles,Clothing,10022
+72913,5221,101542,F,55+,Teacher,Chicago,Garden & Outdoors,956
+33961,5230,085642,M,26-35,Photographer,Los Angeles,Sports & Outdoors,8583
+72956,5231,307842,M,36-45,Financial Analyst,Chicago,Toys & Games,16554
+34000,5240,329642,F,26-35,Software Developer,Chicago,Automotive,8132
+73108,5259,322442,M,26-35,Marketing Manager,Los Angeles,Automotive,9783
+34122,5262,160542,F,26-35,Civil Engineer,Chicago,Sports & Outdoors,1856
+34126,5263,345642,M,36-45,Financial Analyst,Los Angeles,Electronics,8137
+34143,5265,072542,M,46-50,Teacher,Los Angeles,Sports & Outdoors,1860
+34157,5267,199742,M,36-45,Financial Analyst,Chicago,Sports & Outdoors,5364
+34189,5273,119042,M,55+,Veterinarian,Los Angeles,Sports & Outdoors,8668
+73214,5274,179742,M,26-35,Software Developer,New York,Office Supplies,1678
+34211,5277,297642,M,26-35,Veterinarian,Los Angeles,Automotive,5940
+34268,5283,199142,M,18-25,Graphic Designer,Chicago,Sports & Outdoors,5245
+34275,5284,052442,M,26-35,Dentist,Chicago,Sports & Outdoors,3629
+34333,5303,272242,F,55+,Marketing Manager,Chicago,Automotive,6200
+34387,5311,232042,M,51-55,Software Developer,Chicago,Office Supplies,1671
+34414,5313,298042,M,55+,Software Developer,New York,Sports & Outdoors,8822
+34420,5317,079642,F,26-35,Software Developer,New York,Automotive,9915
+34531,5330,113942,F,26-35,Software Developer,Chicago,Automotive,7792
+34536,5332,229342,M,18-25,Electrician,Chicago,Sports & Outdoors,7110
+34571,5334,259742,F,55+,Pharmacist,Chicago,Automotive,2006
+34575,5335,213842,M,26-35,Civil Engineer,Los Angeles,Toys & Games,12849
+34604,5340,157342,F,51-55,Nurse,Chicago,Automotive,9970
+34616,5342,266942,F,36-45,Financial Analyst,Los Angeles,Automotive,7836
+34618,5343,347142,F,26-35,Chef,New York,Sports & Outdoors,3585
+34695,5357,139542,F,18-25,Veterinarian,Los Angeles,Sports & Outdoors,6920
+34697,5359,343642,M,18-25,Dentist,Los Angeles,Toys & Games,16638
+34734,5362,322942,M,36-45,Pharmacist,Chicago,Clothing,13188
+34737,5363,175542,M,55+,Pharmacist,Chicago,Sports & Outdoors,8744
+34816,5369,317442,M,26-35,Lawyer,New York,Electronics,19433
+73874,5372,332942,M,26-35,Electrician,Chicago,Sports & Outdoors,3609
+34856,5378,052142,M,36-45,Research Scientist,New York,Automotive,7842
+73898,5381,124642,M,26-35,Civil Engineer,Los Angeles,Furniture,20277
+34977,5395,344442,M,51-55,Teacher,Chicago,Sports & Outdoors,8679
+35045,5408,337342,M,26-35,Veterinarian,Chicago,Clothing,12752
+35072,5416,343942,F,26-35,Data Scientist,Chicago,Toys & Games,20978
+35118,5426,303442,M,26-35,Civil Engineer,Chicago,Electronics,15678
+74202,5440,343542,F,46-50,Graphic Designer,Los Angeles,Automotive,9968
+35372,5461,285342,M,51-55,Software Developer,Los Angeles,Sports & Outdoors,8792
+35381,5463,310342,M,36-45,Software Developer,Los Angeles,Health & Beauty,16173
+35410,5468,116942,M,26-35,Photographer,New York,Health & Beauty,20584
+35453,5475,240042,M,26-35,Electrician,New York,Sports & Outdoors,5446
+35508,5483,033042,F,26-35,Marketing Manager,Los Angeles,Sports & Outdoors,6907
+35537,5491,042342,M,18-25,Financial Analyst,New York,Automotive,2266
+35675,5508,214542,M,26-35,Veterinarian,Chicago,Automotive,9777
+35678,5509,328942,M,26-35,Software Developer,New York,Sports & Outdoors,6922
+35683,5511,335242,M,46-50,Teacher,Los Angeles,Sports & Outdoors,5257
+35725,5515,020542,M,18-25,Electrician,Chicago,Food & Beverages,3077
+35735,5517,175042,M,55+,Software Developer,Chicago,Automotive,6046
+35827,5528,284242,M,51-55,Teacher,Chicago,Furniture,16379
+35878,5536,218042,M,26-35,Dentist,Los Angeles,Sports & Outdoors,7133
+35907,5538,200042,M,46-50,Photographer,Los Angeles,Furniture,16202
+35932,5543,115242,M,26-35,Pilot,New York,Sports & Outdoors,8629
+35973,5550,313842,M,36-45,Lawyer,Los Angeles,Electronics,15261
+35996,5551,124442,F,36-45,Veterinarian,New York,Office Supplies,3026
+36105,5566,339442,M,36-45,Financial Analyst,Chicago,Furniture,16173
+36128,5568,079742,M,18-25,Electrician,Chicago,Electronics,19615
+36239,5583,344042,M,55+,Lawyer,Los Angeles,Food & Beverages,2395
+36269,5592,148342,M,26-35,Teacher,New York,Sports & Outdoors,5161
+36290,5595,204342,M,26-35,Veterinarian,Los Angeles,Musical Instruments,21259
+36410,5606,332142,F,26-35,Civil Engineer,Chicago,Automotive,9744
+36426,5612,128242,F,26-35,Teacher,New York,Sports & Outdoors,7114
+36451,5616,244042,M,46-50,Teacher,Chicago,Electronics,11915
+36506,5622,339842,M,36-45,Lawyer,Chicago,Electronics,7826
+36508,5623,183742,M,26-35,Journalist,Los Angeles,Home & Kitchen,2135
+36530,5626,340342,M,55+,Dentist,Los Angeles,Electronics,15809
+36584,5631,118942,M,36-45,Photographer,Chicago,Automotive,8011
+36589,5634,025042,M,26-35,Civil Engineer,New York,Sports & Outdoors,5264
+36598,5635,300542,F,36-45,Chef,Los Angeles,Automotive,5914
+36722,5651,099442,F,26-35,Marketing Manager,Los Angeles,Health & Beauty,16120
+36736,5654,221542,M,26-35,Electrician,New York,Sports & Outdoors,6927
+36779,5663,221042,F,36-45,Veterinarian,Los Angeles,Electronics,11988
+36817,5670,040742,M,18-25,Electrician,Los Angeles,Electronics,11671
+36831,5675,153642,M,36-45,Civil Engineer,New York,Automotive,7761
+36924,5686,338942,M,55+,Dentist,New York,Electronics,4270
+37000,5697,053942,M,26-35,Software Developer,Los Angeles,Electronics,15732
+37048,5705,154442,F,18-25,Electrician,Los Angeles,Automotive,7800
+37137,5724,278242,M,26-35,Lawyer,Los Angeles,Electronics,11533
+76124,5742,087842,F,26-35,Photographer,Los Angeles,Pet Supplies,1380
+37267,5748,179442,M,26-35,Software Developer,Chicago,Office Supplies,3151
+37484,5774,321042,M,18-25,Electrician,New York,Electronics,12048
+37488,5775,287342,M,26-35,Journalist,New York,Sports & Outdoors,8595
+37542,5783,060442,F,46-50,Teacher,Chicago,Sports & Outdoors,5221
+37611,5789,313242,M,26-35,Pilot,New York,Automotive,5975
+37712,5802,304342,F,26-35,Software Developer,New York,Electronics,15416
+37719,5805,068542,F,26-35,Software Developer,Los Angeles,Automotive,4222
+37748,5811,089142,M,18-25,Electrician,Los Angeles,Sports & Outdoors,8715
+115740,5864,267642,F,51-55,Teacher,Chicago,Automotive,8122
+38329,5895,205342,M,26-35,Teacher,Chicago,Automotive,2148
+38400,5916,151442,M,51-55,Veterinarian,Los Angeles,Automotive,5838
+38430,5918,129042,M,26-35,Photographer,New York,Electronics,11532
+38489,5929,245342,F,36-45,Software Developer,Chicago,Office Supplies,7453
+38494,5931,012242,F,18-25,Financial Analyst,New York,Clothing,13152
+38498,5932,049442,M,18-25,Civil Engineer,Chicago,Electronics,11815
+38538,5943,172842,F,46-50,Teacher,New York,Groceries,13566
+38619,5954,310542,M,46-50,Journalist,New York,Automotive,5879
+38671,5956,156242,F,18-25,Electrician,Los Angeles,Home & Kitchen,1420
+38754,5965,006242,M,26-35,Pilot,Chicago,Sports & Outdoors,5399
+38764,5971,226542,M,36-45,Financial Analyst,Chicago,Electronics,15317
+38787,5976,190842,F,26-35,Teacher,Chicago,Clothing,6627
+38833,5983,127542,M,26-35,Nurse,Chicago,Electronics,19085
+38849,5990,292342,F,26-35,Veterinarian,Los Angeles,Automotive,3978
+38895,5998,307342,M,18-25,Electrician,Los Angeles,Automotive,4145
+38967,6005,123742,F,26-35,Data Scientist,Chicago,Office Supplies,5995
+39086,6025,275142,F,26-35,Teacher,Los Angeles,Sports & Outdoors,5201
+39100,6030,205242,M,26-35,Pilot,Chicago,Sports & Outdoors,5298
+39109,6032,327642,M,46-50,Financial Analyst,New York,Food & Beverages,2395
+39117,6034,252242,M,26-35,Civil Engineer,New York,Health & Beauty,20317
+39153,6037,067342,F,46-50,Teacher,Chicago,Automotive,4258
